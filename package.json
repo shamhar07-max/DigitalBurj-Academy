@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-portable.mjs",
+    "build": "node scripts/build-cloudflare.mjs",
+    "build:portable": "node scripts/build-portable.mjs",
     "db:generate": "drizzle-kit generate",
     "test": "node tests/academy.test.mjs && node tests/receipts.test.mjs && node content/server-qa.mjs && node content/auth-qa.mjs && node content/mentor-qa.mjs && node content/qa.cjs && node tests/standard.test.mjs && node tests/access.test.mjs && node tests/production.test.mjs && node tests/portable.test.mjs",
     "start": "node --env-file-if-exists=.env server/start.mjs",

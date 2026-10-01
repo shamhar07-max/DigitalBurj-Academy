@@ -10,13 +10,15 @@ Unzip the archive and open a terminal in `DigitalBurj-Academy`. Install Node 24,
 
 ```sh
 npm ci --include=dev
-npm run build:cloudflare
+npm run build
 npm run test:cloudflare
 npm run test:cloudflare-runtime
 npx wrangler deploy --dry-run --outdir .cloudflare/bundled
 ```
 
 The dry run builds the real Worker and asset manifest without publishing. The dependency lock pins Wrangler. The runtime test uses actual Cloudflare workerd with native asset routing and a SQLite-backed HTTP database fixture; its identity and merchant replies are test fixtures.
+
+`npm run build` generates both the portable server and the Cloudflare Worker/assets required by `wrangler.toml`. `npm run build:cloudflare` is an equivalent explicit command; `npm run build:portable` builds only the portable server. Cloudflare's Git integration can use the default `npm run build` followed by `npx wrangler deploy`.
 
 ## 2. Connect Cloudflare securely
 

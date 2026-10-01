@@ -1,6 +1,6 @@
 {
-  "release": "DigitalBurj Academy 5.0.0 \u2014 Cloudflare GitHub source",
-  "createdAt": "2026-10-01T15:42:28.970279+00:00",
+  "release": "DigitalBurj Academy 5.0.0 — Cloudflare GitHub source",
+  "createdAt": "2026-10-01T16:12:33.132413+00:00",
   "baseProductionCommit": "c0731ee6707b7cf919cbe1275dc3b20931234e4d",
   "originalBrandRepositoryCommit": "2cbd13980a623fd323ae67cec5adde83c248bb0f",
   "platforms": [
@@ -32,7 +32,7 @@
     "DigitalBurj_Session_Key_Generator.html": "1c210687eec32f3cf9292eb41d68c6ad5b5ad925bc6993f60a89852ba113d268",
     "Dockerfile": "782a4cf46eee4b9e98af7341feabbb2e970d88d3db17de58c725fd83c52fad5a",
     "PRODUCT.md": "e0efc9c054e274bf103298ea38abb2cd04898889cb4202a15e5995d042ede921",
-    "README.md": "76d1e556794fc75f905a6c7394e040c2f6f35fe891819d64ffbd98995bb952df",
+    "README.md": "8f138f95723ff94aa3fc4d79a693b68672156d6c354db852880f8eac07e99876",
     "START_HERE.html": "7c62c4a6bf78eaf33c9b10c8ee94e513c37e5d55147d2c00a703d076f54d2c4e",
     "api/academy-entry.mjs": "0357e0be9366e567ebe9673eaacce24087dec56bd00f13548649446fb993ddd5",
     "cloudflare/application.mjs": "b68af71fe94f2d169f8022bde7bb7128a96b792a8006317c49453a70602c17dc",
@@ -108,8 +108,8 @@
     "dist/workspace.html": "a4bda73ca0640abe6ae024ea79845dbec53c57d8384a68454d06888e96cf4948",
     "docs/ACADEMY_INTEGRATION.md": "bc8a4ded24dce8b8c42fb03555f4506fa6e30b88936dfd47a52416d183b9b9a5",
     "docs/ACCESS_REGISTRATION_FIX.md": "b41327989b16338345444eae314fe9bfa483ab9f244b0ecff7fa03771d1fed87",
-    "docs/CLOUDFLARE_DEPLOYMENT.md": "4e2b1708f5e8b3ed2bb39f9b062279ad3f98027b2dba5bab5ab9da6e8e26c485",
-    "docs/CLOUDFLARE_GITHUB_DEPLOYMENT.md": "28cc4e40ceef74872a635bedb22e4378e8aa2286f0a4e8b2156a3f26e1ac42ce",
+    "docs/CLOUDFLARE_DEPLOYMENT.md": "2e95871bdaa5dd76d39f22dd8a99e500514eed2280aa1e4e9419fae28dbf6490",
+    "docs/CLOUDFLARE_GITHUB_DEPLOYMENT.md": "b5a1a4185c27da602c215ca8f0ae7c6802ac76e37d35da0165559d656e020932",
     "docs/CURRICULUM_MAP.md": "68672f0cd50cf31c3be672ae9e5a53a13db6c66f434def750211fca681e13034",
     "docs/DEPLOYMENT.md": "78e380e98e02fc599b8e225ce4ccc683ee29e9d5aebee1cf5cfb55938f505558",
     "docs/DESIGN_EXTENSION.md": "f8a7d468e7f021cc96a76f97b1bebabe43e3c53753f90f1e72e8929efeb2118f",
@@ -169,7 +169,7 @@
     "netlify.toml": "4ce4f6908a8878224efd46f63ee1c2af5aea8807ddae41bb488a270f0cb88f20",
     "netlify/functions/academy.mjs": "0835521e60f97caed40b66ec52f20ee3e232d5dc01a25df656e41be3bb5e0a95",
     "package-lock.json": "903af989102f9b69d9ca2e288e2c3a96c1e01c4ecc2d2e12f7583969c082a577",
-    "package.json": "2e85a56daf3bb0fc4b55a3804e0eabffcc8a27a0538a9c0921750ddaf8eb730a",
+    "package.json": "c46fc5e73a8f3c733f0f8fa5d426191bd0d2b5f0cf0310b505e4b789282bdae1",
     "public/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "railway.toml": "06d4f9b26f177f1d61cdf467016d5c1eebc5ff04467319f83f2536eccc99fee3",
     "render.yaml": "0d2b8c25da30eba66cc0fbbb2269103e83ae02c502291a9d8d55efd791f4d309",
@@ -331,7 +331,7 @@
     "DESIGN.md": "900bbb3f7d6409ed9babce7757ce3d78f5c37a513fba41872c204d87638391f7",
     "Dockerfile": "782a4cf46eee4b9e98af7341feabbb2e970d88d3db17de58c725fd83c52fad5a",
     "PRODUCT.md": "e0efc9c054e274bf103298ea38abb2cd04898889cb4202a15e5995d042ede921",
-    "README.md": "a3c7554eeaaf0a2bd0bfe7564b0e99380637e975a05f57022826f0a610c01b36",
+    "README.md": "8f138f95723ff94aa3fc4d79a693b68672156d6c354db852880f8eac07e99876",
     "START_HERE.html": "7c62c4a6bf78eaf33c9b10c8ee94e513c37e5d55147d2c00a703d076f54d2c4e",
     "api/academy-entry.mjs": "0357e0be9366e567ebe9673eaacce24087dec56bd00f13548649446fb993ddd5",
     "cloudflare/application.mjs": "b68af71fe94f2d169f8022bde7bb7128a96b792a8006317c49453a70602c17dc",
@@ -425,7 +425,7 @@
     "dist/workspace.html": "a4bda73ca0640abe6ae024ea79845dbec53c57d8384a68454d06888e96cf4948",
     "docs/ACADEMY_INTEGRATION.md": "bc8a4ded24dce8b8c42fb03555f4506fa6e30b88936dfd47a52416d183b9b9a5",
     "docs/ACCESS_REGISTRATION_FIX.md": "b41327989b16338345444eae314fe9bfa483ab9f244b0ecff7fa03771d1fed87",
-    "docs/CLOUDFLARE_DEPLOYMENT.md": "4e2b1708f5e8b3ed2bb39f9b062279ad3f98027b2dba5bab5ab9da6e8e26c485",
+    "docs/CLOUDFLARE_DEPLOYMENT.md": "2e95871bdaa5dd76d39f22dd8a99e500514eed2280aa1e4e9419fae28dbf6490",
     "docs/CURRICULUM_MAP.md": "68672f0cd50cf31c3be672ae9e5a53a13db6c66f434def750211fca681e13034",
     "docs/Certificate-Design-Sample.pdf": "6f4aba14d0191befc674cd3e7aad7f0e0ef9d9f791e7412880087f6184f6f74a",
     "docs/Certificate-Verification-Test.pdf": "279dc13c970ae3ce9b37238088a80470f1f8081898053b01e5285fb092f1dee9",
@@ -519,7 +519,7 @@
     "netlify/functions/academy.mjs": "0835521e60f97caed40b66ec52f20ee3e232d5dc01a25df656e41be3bb5e0a95",
     "netlify.toml": "4ce4f6908a8878224efd46f63ee1c2af5aea8807ddae41bb488a270f0cb88f20",
     "package-lock.json": "903af989102f9b69d9ca2e288e2c3a96c1e01c4ecc2d2e12f7583969c082a577",
-    "package.json": "2e85a56daf3bb0fc4b55a3804e0eabffcc8a27a0538a9c0921750ddaf8eb730a",
+    "package.json": "c46fc5e73a8f3c733f0f8fa5d426191bd0d2b5f0cf0310b505e4b789282bdae1",
     "public/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "railway.toml": "06d4f9b26f177f1d61cdf467016d5c1eebc5ff04467319f83f2536eccc99fee3",
     "render.yaml": "0d2b8c25da30eba66cc0fbbb2269103e83ae02c502291a9d8d55efd791f4d309",
@@ -573,9 +573,21 @@
     "worker/payments.mjs": "857eaa644452e726e22b4385ff1048f56b7709b1b069d5a5230f2aca736938c1",
     "worker/receipts.mjs": "0734248a34caf88f47a2d2955dd2741afd33c83b54f2af0eac4eb9d8e9962bb1",
     "worker/teaching.mjs": "462d5ccd8e626d4be30250bc626b876beab3ca6af54003fffd37bfa77cecab8c",
-    "wrangler.toml": "13112b4f852bdc259481d4320f2d84b6a3157f27f25beb304fc82b3d006035a0"
+    "wrangler.toml": "13112b4f852bdc259481d4320f2d84b6a3157f27f25beb304fc82b3d006035a0",
+    "docs/CLOUDFLARE_GITHUB_DEPLOYMENT.md": "b5a1a4185c27da602c215ca8f0ae7c6802ac76e37d35da0165559d656e020932"
   },
   "delivery": "Repository-root source; Cloudflare and portable server bundles regenerated by build",
   "remoteDeploymentPerformed": false,
-  "targetRepository": "https://github.com/shamhar07-max/DigitalBurj-Academy"
+  "targetRepository": "https://github.com/shamhar07-max/DigitalBurj-Academy",
+  "buildValidation": {
+    "checkedAt": "2026-10-01T16:12:33.132413+00:00",
+    "command": "npm run build",
+    "generatedOutputsRemovedBeforeBuild": true,
+    "cloudflareWorkerGenerated": true,
+    "portableServerGenerated": true,
+    "wranglerDeployDryRunPassed": true,
+    "workerSHA256": "d9c78ab7bf611e692fb9e10f6fea3f9e004db45cbe71502460745e0f7d9fe754",
+    "workerIdenticalToPreviouslyValidatedRelease": true,
+    "liveCloudflareDeploymentPerformed": false
+  }
 }

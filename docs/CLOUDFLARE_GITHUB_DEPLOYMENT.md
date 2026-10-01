@@ -23,12 +23,14 @@ Use these settings for the first publication:
 | Worker name | `digitalburj-academy` — matches `wrangler.toml` |
 | Production branch | `main` |
 | Root directory | `/` — package.json and wrangler.toml at repository root |
-| Build command | `npm run build:cloudflare` |
+| Build command | `npm run build` |
 | Deploy command initially | `npx wrangler deploy` |
 | Build variable | `NODE_VERSION` = `24` |
 | Non-production branch builds | Disabled for this first launch |
 
 Keep automatic dependency installation enabled. Cloudflare installs dependencies from the package and lockfile, builds the Worker and uploads its static assets. Its Git integration handles deployment authentication; no local Wrangler login is needed.
+
+The default build generates `.cloudflare/worker.mjs`, `.cloudflare/assets` and the portable server. `npm run build:cloudflare` is an equivalent explicit command. These generated files are excluded from Git and recreated during each build.
 
 Select Deploy. Save the actual `https://digitalburj-academy.<your-subdomain>.workers.dev` address Cloudflare provides. At this point an uncached 503 configuration response is expected: the code is published, but the private database and authentication configuration is not present yet.
 
@@ -54,7 +56,7 @@ Change the production deploy command to:
 node scripts/database.mjs && npx wrangler deploy
 ```
 
-Keep the build command as `npm run build:cloudflare`. Save the settings and retry the latest main-branch build, or trigger a fresh main-branch deployment. The Node migration command creates the eight original schema migrations and checks their history. It uses only the Turso URL and token, prints no tokens, and does not reset the database. On subsequent deployments, it applies only unapplied migrations. If the migration command fails, the deployment command does not run.
+Keep the build command as `npm run build`. Save the settings and retry the latest main-branch build, or trigger a fresh main-branch deployment. The Node migration command creates the eight original schema migrations and checks their history. It uses only the Turso URL and token, prints no tokens, and does not reset the database. On subsequent deployments, it applies only unapplied migrations. If the migration command fails, the deployment command does not run.
 
 The migration command is in the PRODUCTION DEPLOY command, not in the build command or preview command. Keep previews disabled until you have a separate staging configuration. Do not run several migration deployments simultaneously.
 
@@ -143,7 +145,8 @@ Add actual teacher availability and meeting links; test booking, attendance and 
 
 | Symptom | Check |
 | --- | --- |
-| Missing package.json or build script | All three upload batches were merged at the correct root. A ZIP file alone is not source for the build. |
+| Missing package.json or build script | Root directory is `/`, where package.json and wrangler.toml are committed. A ZIP file alone is not source for the build. |
+| `.cloudflare/worker.mjs` was not found | Deploy the latest `main` commit with Build command `npm run build`. Older commits used a portable-only default build; if retrying an old commit, set Build command to `npm run build:cloudflare` first. A successful build must print `Cloudflare Worker built` before Wrangler runs. |
 | Worker name mismatch | Cloudflare Worker name and wrangler.toml `name` both say `digitalburj-academy`. |
 | Node version error | Build variable NODE_VERSION is 24. |
 | Database setup failed | Build secrets contain the correct Turso URL and a write token; inspect migration history without resetting existing data. |

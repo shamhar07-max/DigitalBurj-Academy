@@ -12,11 +12,13 @@ Cloudflare builds this repository in the cloud. You do not need to install Linux
 | Worker name | `digitalburj-academy` |
 | Production branch | `main` |
 | Root directory | `/` |
-| Build command | `npm run build:cloudflare` |
+| Build command | `npm run build` |
 | Initial deploy command | `npx wrangler deploy` |
 | Build variable | `NODE_VERSION=24` |
 
 Keep automatic dependency installation enabled. Disable preview builds for the initial launch. The first publication exposes an uncached 503 configuration response until the private database and authentication settings are present.
+
+The default `npm run build` generates both the portable server and `.cloudflare/worker.mjs` with its protected assets. The explicit `npm run build:cloudflare` command produces the same outputs. Use `npm run build:portable` when only the portable server is needed.
 
 After creating your intended Turso database, add `TURSO_DATABASE_URL` and `TURSO_AUTH_TOKEN` as **build secrets**, then change the production deploy command to:
 
@@ -49,7 +51,7 @@ Node 24 is required; Wrangler and dependencies are pinned in the lockfile.
 
 ```sh
 npm ci --include=dev
-npm run build:cloudflare
+npm run build
 npm run test:cloudflare
 npm run test:cloudflare-runtime
 npm run cloudflare:dry-run
