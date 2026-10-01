@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: digitalburj-academy
+    runtime: node
+    buildCommand: npm ci --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NODE_VERSION
+        value: 24.x
+      - key: ACADEMY_AUTO_MIGRATE
+        value: "true"
+      - key: ACADEMY_PAYMENT_PUBLIC
+        value: "false"
+      - key: ACADEMY_TRUST_PROXY
+        value: "1"
+      - key: ACADEMY_PUBLIC_URL
+        sync: false
+      - key: ACADEMY_OWNER_EMAIL
+        sync: false
+      - key: ACADEMY_SESSION_KEY
+        sync: false
+      - key: TURSO_DATABASE_URL
+        sync: false
+      - key: TURSO_AUTH_TOKEN
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_PUBLISHABLE_KEY
+        sync: false

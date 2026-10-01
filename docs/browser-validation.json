@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-01T04:32:34.456Z",
+  "checks": 50,
+  "errors": [],
+  "viewports": [
+    1440,
+    390
+  ],
+  "scope": "Registered teaching UI with controlled identity and local practice fixtures; anonymous and native registration gates tested separately against the actual compiled Worker. Live payment providers are not connected."
+}

@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-01",
+  "cleanInstall": "NODE_ENV=production npm ci --include=dev passed from extracted ZIP",
+  "build": "passed; compiled application and migration manifest match supplied bytes",
+  "serverSuite": "all passed, including 94 portable persistence, identity, role, payment and actual HTTP checks",
+  "portableBrowserChecks": 15,
+  "fullProductionBrowserChecks": 44,
+  "brandAssetsPreserved": 7,
+  "migrationFiles": 8,
+  "hostConfigurations": [
+    "vercel.json",
+    "render.yaml",
+    "railway.toml",
+    "Dockerfile"
+  ],
+  "scope": "Local install, compilation and functional validation. No live merchant charge, remote host deployment or container engine build."
+}

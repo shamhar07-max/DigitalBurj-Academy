@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-01T09:03:18.361141+00:00",
+  "wrangler": "4.145.0",
+  "cloudflareHttpChecks": 15,
+  "workerdRuntimeChecks": 62,
+  "portableChecks": 94,
+  "existingAcademySuite": "All npm test processes passed",
+  "originalAssetsAndContentCompared": 85,
+  "originalAssetsAndContentChanged": [],
+  "workerBytes": 2275388,
+  "wranglerDryRun": {
+    "passed": true,
+    "uploadKiB": 2344.25,
+    "gzipKiB": 189.88,
+    "binding": "ASSETS",
+    "allRoutesRunWorkerFirst": true
+  },
+  "remoteDeployment": false,
+  "liveCredentials": false,
+  "livePayment": false,
+  "freePlanCpuVerified": false
+}

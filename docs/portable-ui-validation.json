@@ -1,0 +1,6 @@
+{
+  "checkedAt": "2026-10-01T06:50:40.155Z",
+  "checks": 15,
+  "errors": [],
+  "scope": "Actual portable Node server and libSQL database; real browser cookie, registration, confirmation, profile, role, plan and workspace workflow. Supabase HTTP responses are controlled fixtures, not live email delivery."
+}

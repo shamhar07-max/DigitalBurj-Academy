@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "24"
+  NPM_FLAGS = "--include=dev"
+
+[functions]
+  node_bundler = "esbuild"
+  external_node_modules = ["@libsql/client"]
+  included_files = ["server/migration-manifest.mjs"]

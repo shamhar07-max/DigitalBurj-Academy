@@ -1,0 +1,41 @@
+{
+  "repository": "https://github.com/shamhar07-max/DigitalBurjFinalMain",
+  "commit": "2cbd13980a623fd323ae67cec5adde83c248bb0f",
+  "assets": [
+    {
+      "path": "dist/brand/academy-lockup.webp",
+      "source": "https://raw.githubusercontent.com/shamhar07-max/DigitalBurjFinalMain/2cbd13980a623fd323ae67cec5adde83c248bb0f/dist/brand/academy-lockup.webp",
+      "sha256": "0a15038babbba9b57cb1510d42a8998682f4eb605490a9714f8334bcb3a323ac"
+    },
+    {
+      "path": "dist/brand/mark-academy.webp",
+      "source": "https://raw.githubusercontent.com/shamhar07-max/DigitalBurjFinalMain/2cbd13980a623fd323ae67cec5adde83c248bb0f/dist/brand/mark-academy.webp",
+      "sha256": "cb5e9a61761e63e0a3c469864d92e1f514596a9e5ab3195f2552aac8efef9a46"
+    },
+    {
+      "path": "dist/brand/wordmark-480.webp",
+      "source": "https://raw.githubusercontent.com/shamhar07-max/DigitalBurjFinalMain/2cbd13980a623fd323ae67cec5adde83c248bb0f/dist/brand/wordmark-480.webp",
+      "sha256": "dbd575fe9c3209d420def5999a16e861aac30e58ab9cb475801d1461a6886a48"
+    },
+    {
+      "path": "dist/brand/favicon.png",
+      "source": "https://raw.githubusercontent.com/shamhar07-max/DigitalBurjFinalMain/2cbd13980a623fd323ae67cec5adde83c248bb0f/dist/brand/favicon.png",
+      "sha256": "c86640910640c3c1b93245c2d9ae0ed35646bf83078dcc298e27f4e7975fdcf7"
+    },
+    {
+      "path": "dist/fonts/instrument-sans-latin-wght-normal.woff2",
+      "source": "https://raw.githubusercontent.com/shamhar07-max/DigitalBurjFinalMain/2cbd13980a623fd323ae67cec5adde83c248bb0f/dist/fonts/instrument-sans-latin-wght-normal.woff2",
+      "sha256": "2ee17598a98d8a59e4df8152d015bec9ab8e4d5672cc0ab42bef806b568e3971"
+    },
+    {
+      "path": "dist/fonts/plus-jakarta-sans-latin-wght-normal.woff2",
+      "source": "https://raw.githubusercontent.com/shamhar07-max/DigitalBurjFinalMain/2cbd13980a623fd323ae67cec5adde83c248bb0f/dist/fonts/plus-jakarta-sans-latin-wght-normal.woff2",
+      "sha256": "153fc85b70298beeb1d61a5f723331649e7f23bb77302a66e61cb3e2fbdb5e79"
+    },
+    {
+      "path": "dist/fonts.css",
+      "source": "https://raw.githubusercontent.com/shamhar07-max/DigitalBurjFinalMain/2cbd13980a623fd323ae67cec5adde83c248bb0f/dist/fonts.css",
+      "sha256": "57410f84351613235fa7988f4fd782529735f659d60469e34553b0835485b982"
+    }
+  ]
+}

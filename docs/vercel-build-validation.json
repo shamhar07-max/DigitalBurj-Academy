@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-10-01T06:58:51.009Z",
+  "builder": "@vercel/node 17.0.0",
+  "runtime": "nodejs24.x",
+  "handler": "api/academy-entry.mjs",
+  "tracedFiles": 152,
+  "requiredRuntimeModules": "compiled Academy, migration manifest and libSQL included",
+  "scope": "Local native Vercel function packaging only; no cloud deployment or credentials used."
+}

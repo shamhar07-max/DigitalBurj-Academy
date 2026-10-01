@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-01",
+  "node": "24.x",
+  "cleanInstall": "npm ci --include=dev passed in extracted package",
+  "newHandlerChecks": 34,
+  "portableIntegrationChecks": 94,
+  "coreApplicationUnchanged": true,
+  "bundler": "@netlify/zip-it-and-ship-it 16.2.3",
+  "runtimeAPIVersion": 2,
+  "runtimeVersion": "nodejs24.x",
+  "nativeFunctionArchiveBytes": 6239448,
+  "nativeFunctionFiles": 150,
+  "rawWebhookBytesPreserved": true,
+  "route": "/*",
+  "preferStatic": false,
+  "externalSDKPresent": true,
+  "migrationManifestPresent": true,
+  "noRuntimeSecretFilesInFunction": true,
+  "nativeBundleRuntime": [
+    "Node 24 import",
+    "actual local libSQL migration and readiness",
+    "anonymous workspace redirects to sign-in",
+    "registration page opens without course sidebar"
+  ],
+  "remoteDeploymentPerformed": false,
+  "liveIdentityDeliveryTested": false,
+  "livePaymentPerformed": false,
+  "scope": "Native Netlify bundle and actual compiled application checked locally. Automated identity responses are fixtures. Production host/SMTP/merchant still require user configuration."
+}

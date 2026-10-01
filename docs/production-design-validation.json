@@ -1,0 +1,8 @@
+{
+  "checkedAt": "2026-10-01",
+  "inspection": "One combined desktop/mobile inspection of courses, saved plan, launch setup and registration; one bounded correction batch and confirmation.",
+  "preserved": "Exact repository fonts, lockup and original curriculum",
+  "corrections": ["Subject palette specificity", "Dark registration panel padding and caption contrast", "Ambiguous tool names excluded from automatic prose decoration", "Distinct hovered and selected navigation", "Neutral elevation and bounded reduced-motion-aware brand arrival"],
+  "detectorDisposition": {"fontWarnings": "Required original brand fonts retained", "strokeWidth": "SVG painted stroke, not layout dimensions", "legacyBorderShadow": "Existing overlay treatment outside scope", "newColoredShadow": "Replaced by neutral elevation"},
+  "contextDrift": "Existing PRODUCT metadata and design sidecar are older than the implemented workflow; separate init/document refresh remains optional."
+}

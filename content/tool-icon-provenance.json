@@ -1,0 +1,306 @@
+{
+  "package": "simple-icons",
+  "version": "16.33.0",
+  "license": "CC0-1.0",
+  "source": "https://github.com/simple-icons/simple-icons",
+  "icons": [
+    {
+      "id": "notebook",
+      "title": "Writing desk",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "web",
+      "title": "Web studio",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "data",
+      "title": "Data desk",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "prompt",
+      "title": "Prompt studio",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "flow",
+      "title": "Automation lab",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "api",
+      "title": "API trainer",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "design",
+      "title": "Design desk",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "board",
+      "title": "Project board",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "budget",
+      "title": "Budget calculator",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "json",
+      "title": "JSON inspector",
+      "kind": "brand",
+      "source": "https://commons.wikimedia.org/wiki/File:JSON_vector_logo.svg",
+      "slug": "json"
+    },
+    {
+      "id": "contrast",
+      "title": "Contrast checker",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "canva",
+      "title": "Canva",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "figma",
+      "title": "Figma",
+      "kind": "brand",
+      "source": "https://www.figma.com/using-the-figma-brand/",
+      "slug": "figma"
+    },
+    {
+      "id": "capcut",
+      "title": "CapCut",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "adobe",
+      "title": "Adobe Creative Cloud",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "blender",
+      "title": "Blender",
+      "kind": "brand",
+      "source": "https://www.blender.org/about/logo",
+      "slug": "blender"
+    },
+    {
+      "id": "chatgpt",
+      "title": "ChatGPT",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "claude",
+      "title": "Claude",
+      "kind": "brand",
+      "source": "https://claude.ai",
+      "slug": "claude"
+    },
+    {
+      "id": "huggingface",
+      "title": "Hugging Face",
+      "kind": "brand",
+      "source": "https://huggingface.co/brand",
+      "slug": "huggingface"
+    },
+    {
+      "id": "ollama",
+      "title": "Ollama",
+      "kind": "brand",
+      "source": "https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922",
+      "slug": "ollama"
+    },
+    {
+      "id": "opencode",
+      "title": "OpenCode",
+      "kind": "brand",
+      "source": "https://github.com/anomalyco/opencode/blob/1251a870cb384543c150c4a72fb101b55eec971b/packages/identity/mark.svg",
+      "slug": "opencode"
+    },
+    {
+      "id": "replit",
+      "title": "Replit",
+      "kind": "brand",
+      "source": "https://repl.it",
+      "slug": "replit"
+    },
+    {
+      "id": "lovable",
+      "title": "Lovable",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "github",
+      "title": "GitHub",
+      "kind": "brand",
+      "source": "https://github.com/logos",
+      "slug": "github"
+    },
+    {
+      "id": "vscode",
+      "title": "Visual Studio Code",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    },
+    {
+      "id": "render",
+      "title": "Render",
+      "kind": "brand",
+      "source": "https://render.com",
+      "slug": "render"
+    },
+    {
+      "id": "vercel",
+      "title": "Vercel",
+      "kind": "brand",
+      "source": "https://vercel.com/geist/brands",
+      "slug": "vercel"
+    },
+    {
+      "id": "godaddy",
+      "title": "GoDaddy",
+      "kind": "brand",
+      "source": "https://aboutus.godaddy.net/newsroom/media-resources/",
+      "slug": "godaddy"
+    },
+    {
+      "id": "hostinger",
+      "title": "Hostinger",
+      "kind": "brand",
+      "source": "https://www.hostinger.com/newsroom",
+      "slug": "hostinger"
+    },
+    {
+      "id": "cloudflare",
+      "title": "Cloudflare",
+      "kind": "brand",
+      "source": "https://www.cloudflare.com/logo/",
+      "slug": "cloudflare"
+    },
+    {
+      "id": "supabase",
+      "title": "Supabase",
+      "kind": "brand",
+      "source": "https://github.com/supabase/supabase/blob/4031a7549f5d46da7bc79c01d56be4177dc7c114/packages/common/assets/images/supabase-logo-wordmark--light.svg",
+      "slug": "supabase"
+    },
+    {
+      "id": "n8n",
+      "title": "n8n",
+      "kind": "brand",
+      "source": "https://n8n.io/press",
+      "slug": "n8n"
+    },
+    {
+      "id": "make",
+      "title": "Make",
+      "kind": "brand",
+      "source": "https://www.make.com/en/press",
+      "slug": "make"
+    },
+    {
+      "id": "zapier",
+      "title": "Zapier",
+      "kind": "brand",
+      "source": "https://www.figma.com/file/NQFxTCE5pGR3dHZt0DkOyy/Zapier-Brand-Guidelines-%5BExternal%5D?type=design&node-id=101-9701&mode=design",
+      "slug": "zapier"
+    },
+    {
+      "id": "notion",
+      "title": "Notion",
+      "kind": "brand",
+      "source": "https://www.notion.so",
+      "slug": "notion"
+    },
+    {
+      "id": "sheets",
+      "title": "Google Sheets",
+      "kind": "brand",
+      "source": "https://sheets.google.com",
+      "slug": "googlesheets"
+    },
+    {
+      "id": "bitwarden",
+      "title": "Bitwarden",
+      "kind": "brand",
+      "source": "https://bitwarden.com/brand",
+      "slug": "bitwarden"
+    },
+    {
+      "id": "gumroad",
+      "title": "Gumroad",
+      "kind": "brand",
+      "source": "https://gumroad.com",
+      "slug": "gumroad"
+    },
+    {
+      "id": "stripe",
+      "title": "Stripe",
+      "kind": "brand",
+      "source": "https://stripe.com/newsroom/information",
+      "slug": "stripe"
+    },
+    {
+      "id": "razorpay",
+      "title": "Razorpay",
+      "kind": "brand",
+      "source": "https://razorpay.com/newsroom/brand-assets/",
+      "slug": "razorpay"
+    },
+    {
+      "id": "visa",
+      "title": "Visa",
+      "kind": "brand",
+      "source": "https://merchantsignageeu.visa.com/product.asp?dptID=696",
+      "slug": "visa"
+    },
+    {
+      "id": "mastercard",
+      "title": "Mastercard",
+      "kind": "brand",
+      "source": "https://www.mastercard.com/brandcenter/us/en/download-artwork.html",
+      "slug": "mastercard"
+    },
+    {
+      "id": "googlepay",
+      "title": "Google Pay",
+      "kind": "brand",
+      "source": "https://pay.google.com/intl/en_us/about/",
+      "slug": "googlepay"
+    },
+    {
+      "id": "binance",
+      "title": "Binance Pay",
+      "kind": "brand",
+      "source": "https://binance.com",
+      "slug": "binance"
+    },
+    {
+      "id": "crypto",
+      "title": "Crypto wallet",
+      "kind": "purpose",
+      "source": "DigitalBurj purpose pictogram"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-01",
+  "findings": [
+    {
+      "antipattern": "overused-font",
+      "severity": "warning",
+      "file": "dist/courses.html",
+      "snippet": "Primary font: instrument sans"
+    },
+    {
+      "antipattern": "overused-font",
+      "severity": "warning",
+      "file": "dist/courses.html",
+      "snippet": "Primary font: plus jakarta sans"
+    }
+  ],
+  "disposition": "Both fonts are required exact repository brand assets; retained intentionally. No second detector pass."
+}

@@ -1,0 +1,6 @@
+{
+  "checkedAt": "2026-10-01T08:56:20.505Z",
+  "checks": 114,
+  "errors": [],
+  "scope": "Compiled Worker and SQLite: anonymous routes/assets/APIs, preview bypass denial, supported Sites ingress identity, registration consent and ownership, free/paid scope, suspension, sign-out, external header denial, isolated credential lookup. Native OAuth provider login itself is dispatch-owned."
+}

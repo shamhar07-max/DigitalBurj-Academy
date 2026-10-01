@@ -1,0 +1,12 @@
+node_modules
+.git
+.env
+.env.*
+!.env.example
+.generated
+output
+docs/screenshots
+tests
+*.zip
+*.db
+*.db-*

@@ -1,0 +1,30 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {createAPI} from '../worker/api.mjs';
+import {database,seedProfile} from './helpers.mjs';
+const {DB,sql}=database(),C=JSON.parse(fs.readFileSync('content/curriculum.json')),api=createAPI(C);
+const env={DB,STRIPE_SECRET_KEY:'sk_test_fixture',STRIPE_WEBHOOK_SECRET:'fixture-secret',ACADEMY_LIVE_PRODUCTS:JSON.stringify([{id:'web-pathway',title:'Websites & product building',status:'Live',priceId:'price_fixture',amount:25000,currency:'aed',courseIds:['web'],durationDays:365,reviewApproval:'Test review',refundPolicy:'Test refund terms',termsUrl:'https://academy.test/terms'}])};
+seedProfile(sql,'learner');seedProfile(sql,'other');let checks=0,checkoutForm;
+const check=(condition,label)=>{assert(condition,label);checks++};
+async function call(path,method='GET',body,user='learner'){const r=await api(new Request('https://academy.test/api/'+path,{method,headers:{origin:'https://academy.test','content-type':'application/json',...(user?{'oai-authenticated-user-id':user,'oai-authenticated-user-email':user+'@example.test'}:{})},...(body?{body:JSON.stringify(body)}:{})}),env);return{status:r.status,body:await r.json()}}
+const fetchOriginal=globalThis.fetch;globalThis.fetch=async(url,options)=>{checkoutForm=new URLSearchParams(options.body);return new Response(JSON.stringify({id:'cs_receipt',amount_total:25000,currency:'aed',url:'https://checkout.stripe.com/c/pay/cs_receipt'}))};
+const created=await call('checkout','POST',{productId:'web-pathway',requestKey:'receipt-test-request-0001'});globalThis.fetch=fetchOriginal;
+check(created.status===200,'checkout opened');const id=created.body.orderId;
+check(checkoutForm.get('success_url')==='https://academy.test/dashboard?checkout=returned#receipt/'+id,'checkout returns to the exact order');check(checkoutForm.get('cancel_url').includes('#receipt/'+id),'cancel returns to an actual order status');
+let data=await call('orders/'+id);check(data.body.receipt===null,'unpaid order cannot have a receipt');check(data.body.activeCourseIds.length===0,'unpaid order has no purchase access');
+check((await call('orders/'+id+'?checkout=returned')).body.receipt===null,'return query never confirms payment');
+check((await call('orders/'+id,'GET',null,'other')).status===404,'another learner cannot read the order');check((await call('orders/'+id,'GET',null,null)).status===401,'receipt requires identity');
+async function webhook(type,object,eventId,bad=false){const raw=JSON.stringify({id:eventId,type,data:{object}}),time=String(Math.floor(Date.now()/1000)),key=await crypto.subtle.importKey('raw',new TextEncoder().encode(env.STRIPE_WEBHOOK_SECRET),{name:'HMAC',hash:'SHA-256'},false,['sign']),signature=Array.from(new Uint8Array(await crypto.subtle.sign('HMAC',key,new TextEncoder().encode(time+'.'+raw)))).map(x=>x.toString(16).padStart(2,'0')).join('');const r=await api(new Request('https://academy.test/api/payments/webhook',{method:'POST',headers:{'stripe-signature':'t='+time+',v1='+(bad?'invalid':signature)},body:raw}),env);return{status:r.status,body:await r.json()}}
+const paid={id:'cs_receipt',payment_status:'paid',amount_total:25000,currency:'aed',client_reference_id:id,payment_intent:'pi_receipt'};
+check((await webhook('checkout.session.completed',paid,'evt_forged',true)).status===400,'forged payment rejected');
+check((await webhook('checkout.session.completed',{...paid,amount_total:1},'evt_mismatch')).status===409,'amount mismatch rejected');
+check((await call('orders/'+id)).body.receipt===null,'failed confirmation has no receipt');
+check((await webhook('checkout.session.completed',paid,'evt_receipt_paid')).status===200,'signed matching payment confirmed');
+data=(await call('orders/'+id)).body;check(data.status==='Paid'&&data.receipt.amount===25000&&data.receipt.currency==='aed','receipt uses confirmed paid values');check(data.activeCourseIds.includes('web'),'receipt and access available together');check(Number.isFinite(Date.parse(data.receipt.confirmedAt)),'receipt records confirmation time');
+const receipt=JSON.stringify(data.receipt);env.ACADEMY_LIVE_PRODUCTS='[]';check((await call('orders/'+id)).body.receipt.title==='Websites & product building','receipt preserves checkout title after products change');
+check((await webhook('checkout.session.completed',paid,'evt_receipt_paid')).body.duplicate,'same event is idempotent');check((await webhook('checkout.session.completed',paid,'evt_receipt_replayed')).status===200,'equivalent confirmation can be reconciled');check(sql.prepare('SELECT COUNT(*) AS n FROM payment_receipts').get().n===1,'one receipt per order');check(JSON.stringify((await call('orders/'+id)).body.receipt)===receipt,'receipt content is immutable on replay');
+check((await webhook('charge.refunded',{payment_intent:'pi_receipt',amount:25000,amount_refunded:5000,currency:'aed'},'evt_partial')).status===200,'partial refund recorded');data=(await call('orders/'+id)).body;check(data.status==='Partially refunded'&&data.receipt.refundedAmount===5000,'partial refund visible');check(data.activeCourseIds.includes('web'),'partial refund retains access under policy');
+check((await webhook('charge.refunded',{payment_intent:'pi_receipt',amount:25000,amount_refunded:25000,refunded:true,currency:'aed'},'evt_full')).status===200,'full refund recorded');data=(await call('orders/'+id)).body;check(data.status==='Refunded'&&data.receipt.refundedAmount===25000,'receipt shows full refund');check(data.activeCourseIds.length===0,'full refund withdraws purchase access');
+check((await webhook('charge.refunded',{payment_intent:'pi_receipt',amount:25000,amount_refunded:1000,currency:'aed'},'evt_old_partial')).status===200,'out of order smaller refund is processed');data=(await call('orders/'+id)).body;check(data.status==='Refunded'&&data.receipt.refundedAmount===25000,'old event cannot reduce refunded total or reactivate order');
+check((await call('orders/'+id,'GET',null,'other')).status===404,'paid and refunded receipts stay private');
+console.log('Receipt lifecycle checks passed: '+checks);

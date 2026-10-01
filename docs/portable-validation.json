@@ -1,0 +1,7 @@
+{
+  "checkedAt": "2026-10-01T08:56:20.964Z",
+  "checks": 94,
+  "errors": [],
+  "database": "Actual @libsql/client SQLite file with persistence, checksum migrations and atomic batches",
+  "scope": "Actual compiled Academy, email-session API, roles, purchases, signed notifications and Node HTTP; provider identity and merchant responses are controlled test fixtures. No remote deployment or live charge."
+}

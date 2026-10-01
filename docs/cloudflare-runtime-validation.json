@@ -1,0 +1,7 @@
+{
+  "checkedAt": "2026-10-01T08:59:20.547Z",
+  "checks": 62,
+  "errors": [],
+  "runtime": "Actual Cloudflare workerd via Miniflare 5.20260930.0-alpha",
+  "scope": "Production Cloudflare bundle, native ASSETS, HTTP SDK and SQLite-backed Hrana fixture; controlled identity/merchant fixtures. No remote deployment, live charge or claim that local runtime proves free-plan CPU compliance."
+}

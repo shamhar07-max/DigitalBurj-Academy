@@ -1,0 +1,1 @@
+ALTER TABLE `order_access` ADD `purchase_terms` text DEFAULT '{}' NOT NULL;

@@ -1,0 +1,5 @@
+{
+  "checks": 15,
+  "errors": [],
+  "scope": "Browser UI with mocked owned-order and identity responses; real merchant not connected."
+}

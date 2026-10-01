@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-01T04:39:14.692Z",
+  "checks": 59,
+  "errors": [],
+  "viewports": [
+    1440,
+    390
+  ],
+  "scope": "Shared Academy navigation, original workspace, 15 guide chapters, registration/login/recovery/onboarding/confirmation UI with controlled account API fixtures. Email-provider responses are controlled fixtures; anonymous guide access is denied."
+}

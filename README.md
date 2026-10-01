@@ -59,4 +59,6 @@ The Cloudflare edition passed 15 HTTP database/transport checks and 62 workerd r
 
 Generated `.cloudflare`, `.generated`, installed packages and the portable embedded `dist/server` bundle are intentionally excluded from Git; build commands recreate them. Original UI/course source, fonts, brand assets, migration files and validation reports are preserved.
 
+Generated verification-test PDFs and screenshots are excluded from this public repository. Tests can recreate these artifacts locally; the certificate implementation and its test code remain included.
+
 Additional deployment options and operating instructions are in [docs](docs), including [Cloudflare](docs/CLOUDFLARE_DEPLOYMENT.md), [authentication](AUTH_SETUP.md), and the supplied Vercel/Render/Railway configurations.

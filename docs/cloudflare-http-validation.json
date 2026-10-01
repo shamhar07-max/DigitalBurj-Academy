@@ -1,0 +1,6 @@
+{
+  "checkedAt": "2026-10-01T08:48:23.128Z",
+  "checks": 15,
+  "errors": [],
+  "scope": "Actual HTTP libSQL SDK with SQLite-backed Hrana fixture, checksum and atomic batch checks; no remote credentials or deployment."
+}
