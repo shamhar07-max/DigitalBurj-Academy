@@ -27,9 +27,9 @@ Older course URLs enter the dedicated dashboard's course list. The standalone pr
 
 ## Learning scope
 
-18 courses × 5 named modules × 2 distinct projects × 6 ordered learning stages = 180 projects and 1,080 stage instructions. Course practice times are authored estimates, not measured outcomes or a guarantee of expertise. Content moves from foundations through guided, independent, professional and expert practice. Local qualifications and country-sensitive material require qualified subject review before assessed delivery.
+129 courses × 5 named modules × 2 distinct projects × 6 ordered learning stages = 1,290 projects and 7,740 stage instructions. Course practice times are authored estimates, not measured outcomes or a guarantee of expertise. Content moves from foundations through guided, independent, professional and expert practice. Local qualifications and country-sensitive material require qualified subject review before assessed delivery.
 
-The two free courses are Digital confidence and Digital safety & responsible work. Paid subjects cover websites, data, AI, automation, business operations, design, freelancing, production practice, no-code applications, local/open AI, cloud/domains, creator workflows, finance operations, logistics, e-commerce and leadership. See CURRICULUM_MAP.md for every module and project.
+The two free courses are Digital confidence and Digital safety & responsible work. Paid subjects cover websites, data, AI, automation, business operations, design, freelancing, production practice, no-code applications, local/open AI, cloud/domains, creator workflows, finance operations, logistics, e-commerce and leadership, plus 111 standalone subject-area courses described in SUBJECT_COURSES.md. See CURRICULUM_MAP.md for every module and project.
 
 ## Workspace and tools
 

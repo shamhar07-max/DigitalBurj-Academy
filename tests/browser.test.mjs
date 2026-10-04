@@ -8,7 +8,7 @@ await context.route('**/runtime.js',r=>r.fulfill({contentType:'text/javascript',
 const go=async route=>{await p.goto(url+'index.html#'+route);await p.waitForFunction(requested=>{const actual=location.hash.slice(1)||'home',expected=requested==='studio/print'?'shop':requested,lesson=/^lesson\/[^/]+\/[^/]+\/\d+$/.test(requested)&&actual.split('/').slice(0,3).join('/')===requested.split('/').slice(0,3).join('/');return document.getElementById('main').dataset.route===actual&&(actual===expected||lesson)},route);await p.waitForSelector('#main h1, #main h2')};
 const check=async(condition,message)=>{assert(condition,message);count++};
 await go('home');await p.screenshot({path:out+'/desktop.png',fullPage:true});
-await go('paths');await check(await p.locator('.course-card').count()===18,'eighteen courses');await p.locator('#path-search').fill('Websites');await check(await p.locator('.course-card').count()===1,'path search');
+await go('paths');await check(await p.locator('.course-card').count()===129,'every course is listed');await p.locator('#path-search').fill('Websites');await check(await p.locator('.course-card').count()===1,'path search');
 await go('programmes');await p.waitForSelector('#programme-list .journey-item');await check(await p.locator('#programme-list .journey-item').count()===48,'48 original programmes');
 await go('lesson/start/start-01/0');await p.getByRole('button',{name:'Save step & continue'}).click();await check(p.url().endsWith('/0'),'empty step is gated');
 const notes=[

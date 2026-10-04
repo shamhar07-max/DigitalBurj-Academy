@@ -1,0 +1,3477 @@
+[
+ {
+  "id": "computer-applications",
+  "title": "Computer Applications",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in Computer Application(DCA)",
+    "url": "https://iisdt.in/product/dca/"
+   },
+   {
+    "title": "Advanced Diploma in Computer Applications (ADCA)",
+    "url": "https://iisdt.in/product/adca/"
+   },
+   {
+    "title": "Advanced Professional Diploma in Computer Applications (APDCA)",
+    "url": "https://iisdt.in/product/apdca/"
+   },
+   {
+    "title": "Certificate in Computer Applications",
+    "url": "https://iisdt.in/product/certificate-in-computer-applications/"
+   },
+   {
+    "title": "Industry-Oriented Diploma in Computer Science and IT Tools",
+    "url": "https://iisdt.in/product/industry-oriented-diploma-in-computer-science-and-it-tools/"
+   },
+   {
+    "title": "Advanced Diploma in Information Technology & Computer Applications",
+    "url": "https://iisdt.in/product/advanced-diploma-in-information-technology-computer-applications/"
+   },
+   {
+    "title": "Advanced Diploma in Computer Software",
+    "url": "https://iisdt.in/product/advanced-diploma-in-computer-software/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/adca/",
+   "code": "ADCA/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Operating systems, networking and administration",
+    "Office automation, macros and data analysis",
+    "ERP and computerised accounting",
+    "Relational databases and SQL",
+    "Web architecture, front-end design and CMS",
+    "Desktop publishing, graphics and cyber security"
+   ]
+  }
+ },
+ {
+  "id": "computer-basics",
+  "title": "Computer Concepts & Office Automation",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Certificate in Computer Concept (CCC)",
+    "url": "https://iisdt.in/product/certificate-in-computer-conceptccc/"
+   },
+   {
+    "title": "Certificate in Computer Fundamental",
+    "url": "https://iisdt.in/product/certificate-in-computer-fundamental/"
+   },
+   {
+    "title": "Certificate in Office Automation and Internet",
+    "url": "https://iisdt.in/product/office-automation-and-internet-oai/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-computer-conceptccc/",
+   "code": "CCC/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Computer and GUI operating system",
+    "Word processing and office automation",
+    "Spreadsheet calculations",
+    "Presentation software",
+    "Internet, WWW and browsers",
+    "Digital financial services and cyber security"
+   ]
+  }
+ },
+ {
+  "id": "office-suite",
+  "title": "MS Office & Advanced Excel",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Certificate in M.S. Office",
+    "url": "https://iisdt.in/product/m-s-office/"
+   },
+   {
+    "title": "Certificate in Advanced Excel",
+    "url": "https://iisdt.in/product/certificate-in-advanced-excel/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-advanced-excel/",
+   "code": "CAE/Q1001",
+   "duration": "Two Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Excel basics refresher",
+    "Advanced formulas and functions",
+    "Data tools and data cleaning",
+    "Pivot tables and pivot charts",
+    "Data visualisation and charting",
+    "Advanced data analysis"
+   ]
+  }
+ },
+ {
+  "id": "data-entry-typing",
+  "title": "Data Entry & Typing",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Certificate in Data Entry Operator (DEO)",
+    "url": "https://iisdt.in/product/data-entry-operatordeo/"
+   },
+   {
+    "title": "Certificate in Steno English Typing",
+    "url": "https://iisdt.in/product/https-iisdt-in-product-steno-english-typing-https-iisdt-in-product-steno-english-typing/"
+   },
+   {
+    "title": "Certificate in Steno Hindi Typing",
+    "url": "https://iisdt.in/product/steno-hindi-typing/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/data-entry-operatordeo/",
+   "code": "DEO/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Computer fundamentals and operating system",
+    "Word processing",
+    "Spreadsheets",
+    "Data entry speed and accuracy",
+    "Data management and security",
+    "Internet, email and communication"
+   ]
+  }
+ },
+ {
+  "id": "tally-erp",
+  "title": "Tally & Computerised Accounting",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in Tally ERP 9.0",
+    "url": "https://iisdt.in/product/tally/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/tally/",
+   "code": "TALLY/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Accounting basics and Tally ERP 9.0",
+    "Inventory management",
+    "Voucher entry and advanced accounting",
+    "Taxation and compliance",
+    "Payroll and security control",
+    "Reports, MIS and final project"
+   ]
+  }
+ },
+ {
+  "id": "graphic-dtp",
+  "title": "Graphic Design & Desktop Publishing",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in Graphic Designing",
+    "url": "https://iisdt.in/product/diploma-in-graphic-designing/"
+   },
+   {
+    "title": "Certificate in Desk Top Publishing (DTP)",
+    "url": "https://iisdt.in/product/certificate-in-desk-top-publishing-dtp/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-graphic-designing/",
+   "code": "DGD/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Design foundations and colour",
+    "Vector illustration",
+    "Raster image editing",
+    "Desktop publishing and pre-flight",
+    "Branding, advertising and packaging",
+    "UI/UX layout, portfolio and freelance practice"
+   ]
+  }
+ },
+ {
+  "id": "animation-multimedia",
+  "title": "Animation, VFX & Multimedia",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in 2D/3D Animation",
+    "url": "https://iisdt.in/product/2d-3d-animation/"
+   },
+   {
+    "title": "Certificate in VFX Video Editing",
+    "url": "https://iisdt.in/product/certificate-in-vfx-video-editing/"
+   },
+   {
+    "title": "Advanced Diploma in Multimedia Application",
+    "url": "https://iisdt.in/product/advanced-diploma-in-multimedia-application/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/2d-3d-animation/",
+   "code": "DIN/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Animation fundamentals",
+    "Character design",
+    "Graphic design",
+    "2D animation and editing",
+    "3D modelling and animation",
+    "Introduction to Maya"
+   ]
+  }
+ },
+ {
+  "id": "autocad",
+  "title": "AutoCAD Drafting",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in Autocad",
+    "url": "https://iisdt.in/product/diploma-in-autocad/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-autocad/",
+   "code": "DIA/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Workspace and drafting basics",
+    "Advanced 2D drafting",
+    "Annotation, dimensions and hatching",
+    "Blocks, external references and design centre",
+    "Introduction to 3D modelling",
+    "Rendering, plotting and documentation"
+   ]
+  }
+ },
+ {
+  "id": "hardware-networking",
+  "title": "Computer Hardware, Repair & Networking",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in Computer Hardware and Networking",
+    "url": "https://iisdt.in/product/diploma-in-computer-hardware-and-networking/"
+   },
+   {
+    "title": "Certificate in Advanced Networking",
+    "url": "https://iisdt.in/product/certificate-in-advanced-networking/"
+   },
+   {
+    "title": "Diploma in Computer Repair and Diagnostic Techniques",
+    "url": "https://iisdt.in/product/diploma-in-computer-repair-and-diagnostic-techniques/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-computer-hardware-and-networking/",
+   "code": "DCHN/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Computer architecture and hardware",
+    "Peripherals, installation and troubleshooting",
+    "Networking fundamentals and protocols",
+    "Network infrastructure and routing",
+    "Server administration and operating systems",
+    "Network security and professional practice"
+   ]
+  }
+ },
+ {
+  "id": "mobile-repair",
+  "title": "Mobile Phone Repair Technician",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in Mobile Phone Repairing",
+    "url": "https://iisdt.in/product/diploma-in-mobile-phone-repairing/"
+   },
+   {
+    "title": "Certificate in Mobile Repairing",
+    "url": "https://iisdt.in/product/certificate-course-in-mobile-repairing/"
+   },
+   {
+    "title": "Certificate in Mobile Phone Hardware Repair Technician",
+    "url": "https://iisdt.in/product/mobile-phone-hardware-repair-technician/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-mobile-phone-repairing/",
+   "code": "DMPR/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to mobile phone repair",
+    "Hardware components and functions",
+    "Hardware repair and troubleshooting",
+    "Software repair and troubleshooting",
+    "Advanced chip-level repair",
+    "Network and signal issues"
+   ]
+  }
+ },
+ {
+  "id": "c-cpp-programming",
+  "title": "C & C++ Programming",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Certificate in C Programming",
+    "url": "https://iisdt.in/product/certificate-in-c-programming/"
+   },
+   {
+    "title": "Certificate in C++",
+    "url": "https://iisdt.in/product/certificate-in-c/"
+   },
+   {
+    "title": "C++ Programming Language",
+    "url": "https://iisdt.in/product/c-programming-language/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-c-programming/",
+   "code": "CCP/Q1001",
+   "duration": "Two Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to C programming",
+    "Operators and expressions",
+    "Control flow and decision making",
+    "Functions in C",
+    "Arrays and strings",
+    "Structures and file handling"
+   ]
+  }
+ },
+ {
+  "id": "server-web-programming",
+  "title": "PHP & ASP.NET Web Programming",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Certificate in PHP",
+    "url": "https://iisdt.in/product/certificate-in-php/"
+   },
+   {
+    "title": "Certificate in ASP.NET Programming",
+    "url": "https://iisdt.in/product/certificate-in-asp-net-programming/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-php/",
+   "code": "PHP/Q0001",
+   "duration": "Two Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to PHP",
+    "Control structures and functions",
+    "Forms and user input",
+    "Arrays and strings",
+    "Database connectivity with MySQL",
+    "Sessions, cookies and authentication"
+   ]
+  }
+ },
+ {
+  "id": "software-development",
+  "title": "Software & Web Application Development",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in Software Development",
+    "url": "https://iisdt.in/product/diploma-in-software-development/"
+   },
+   {
+    "title": "Advanced Diploma in Software & Web Application Development",
+    "url": "https://iisdt.in/product/advanced-diploma-in-software-web-application-development/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-software-web-application-development/",
+   "code": "ADSWAD/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to software and web development",
+    "Programming with Python and JavaScript",
+    "Front-end web development",
+    "Back-end development with Node.js",
+    "Databases, SQL and NoSQL",
+    "Full-stack development"
+   ]
+  }
+ },
+ {
+  "id": "ai-machine-learning",
+  "title": "AI & Machine Learning",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Advanced Diploma in AI and Machine Learning",
+    "url": "https://iisdt.in/product/advanced-diploma-in-ai-and-machine-learning/"
+   },
+   {
+    "title": "Professional Diploma in Information Technology and AI",
+    "url": "https://iisdt.in/product/professional-diploma-in-information-technology-and-ai/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-ai-and-machine-learning/",
+   "code": "ADAIML/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to AI and machine learning",
+    "Mathematics and statistics for ML",
+    "ML algorithms and techniques",
+    "Deep learning and neural networks",
+    "Natural language processing",
+    "Reinforcement learning and AI agents"
+   ]
+  }
+ },
+ {
+  "id": "data-science",
+  "title": "Data Science",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Data Science",
+    "url": "https://iisdt.in/product/advanced-diploma-in-data-science/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-data-science/",
+   "code": "ADDS/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to data science",
+    "Programming for data science",
+    "Data wrangling and preprocessing",
+    "Exploratory analysis and visualisation",
+    "Statistical analysis and probability",
+    "Machine learning fundamentals"
+   ]
+  }
+ },
+ {
+  "id": "digital-marketing-seo",
+  "title": "Digital Marketing & SEO",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Certificate in SEO",
+    "url": "https://iisdt.in/product/certificate-in-seo/"
+   },
+   {
+    "title": "Diploma in Digital Marketing",
+    "url": "https://iisdt.in/product/diploma-in-digital-marketing/"
+   },
+   {
+    "title": "Advanced Diploma in Digital Marketing",
+    "url": "https://iisdt.in/product/advanced-diploma-in-digital-marketing/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-digital-marketing/",
+   "code": "ADDM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to digital marketing",
+    "Search engine optimisation",
+    "Search engine marketing and pay-per-click",
+    "Social media marketing",
+    "Content marketing and blogging",
+    "Email marketing and automation"
+   ]
+  }
+ },
+ {
+  "id": "computer-trainer",
+  "title": "Computer & IT Trainer Skills",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Computer Trainer Proficiency Diploma",
+    "url": "https://iisdt.in/product/computer-trainer-proficiency-diploma/"
+   },
+   {
+    "title": "Diploma in Computer Education & Training Skills",
+    "url": "https://iisdt.in/product/diploma-in-computer-education-training-skills/"
+   },
+   {
+    "title": "Certificate in Computer Education Support Skills",
+    "url": "https://iisdt.in/product/certificate-in-computer-education-support-skills/"
+   },
+   {
+    "title": "Diploma in IT Training and Instructional Skills",
+    "url": "https://iisdt.in/product/diploma-in-it-training-and-instructional-skills/"
+   },
+   {
+    "title": "Diploma in Computer Training & Digital Literacy",
+    "url": "https://iisdt.in/product/diploma-in-computer-training-digital-literacy/"
+   },
+   {
+    "title": "Certificate in Digital Teaching & Learning Technologies",
+    "url": "https://iisdt.in/product/certificate-in-digital-teaching-learning-technologies/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/computer-trainer-proficiency-diploma/",
+   "code": "CTPD/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Basics of computers and IT",
+    "MS Office applications",
+    "Internet and digital tools",
+    "Teaching skills and training methodology",
+    "Typing and data entry skills",
+    "Professional and career skills"
+   ]
+  }
+ },
+ {
+  "id": "office-it-support",
+  "title": "Office IT & Tech Support",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Professional Diploma in Office IT and Tech Support",
+    "url": "https://iisdt.in/product/professional-diploma-in-office-it-and-tech-support/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/professional-diploma-in-office-it-and-tech-support/",
+   "code": "PDOTTS/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Fundamentals of IT and networking",
+    "Programming and software development",
+    "Operating systems and databases",
+    "Web development and cybersecurity",
+    "Software engineering and AI",
+    "IT support and mobile app development"
+   ]
+  }
+ },
+ {
+  "id": "cctv-installation",
+  "title": "CCTV Installation Technician",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Certificate in CCTV Installation Technician",
+    "url": "https://iisdt.in/product/certificate-in-cctv-installation-technician/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-cctv-installation-technician/",
+   "code": "CCTVIT/Q0001",
+   "duration": "One Month",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to CCTV systems",
+    "System components and equipment",
+    "Installation tools and techniques",
+    "Video recording and storage",
+    "Networking and remote access",
+    "Security and maintenance"
+   ]
+  }
+ },
+ {
+  "id": "mis-technology-operations",
+  "title": "Management Information Systems & Technology Operations",
+  "category": "Computing & IT",
+  "listings": [
+   {
+    "title": "Diploma in Management Information System",
+    "url": "https://iisdt.in/product/diploma-in-management-information-system/"
+   },
+   {
+    "title": "Professional Diploma in Technology and Operations Management",
+    "url": "https://iisdt.in/product/professional-diploma-in-technology-and-operations-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-management-information-system/",
+   "code": "DMIS/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to MIS",
+    "IT fundamentals for MIS",
+    "Database management and SQL",
+    "Decision support and business intelligence",
+    "ERP and supply chain management",
+    "E-commerce and digital business"
+   ]
+  }
+ },
+ {
+  "id": "financial-accounting",
+  "title": "Financial Accounting & Accounts Executive",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Certificate in Accounts",
+    "url": "https://iisdt.in/product/certificate-in-accounts/"
+   },
+   {
+    "title": "Certificate in Financial Accounting",
+    "url": "https://iisdt.in/product/certificate-in-financial-accounting/"
+   },
+   {
+    "title": "Diploma in Financial Accounting",
+    "url": "https://iisdt.in/product/diploma-in-financial-accounting/"
+   },
+   {
+    "title": "Professional Diploma in Financial Accounting",
+    "url": "https://iisdt.in/product/professional-diploma-in-financial-accounting/"
+   },
+   {
+    "title": "Advanced Diploma in Finance and Accounts",
+    "url": "https://iisdt.in/product/advanced-diploma-in-finance-and-accounts/"
+   },
+   {
+    "title": "Diploma in Accounts Executive",
+    "url": "https://iisdt.in/product/accounts-executive/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-finance-and-accounts/",
+   "code": "ADFA/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Fundamentals of finance and accounting",
+    "Corporate accounting and financial reporting",
+    "Cost and management accounting",
+    "Taxation and GST",
+    "Financial management and banking operations",
+    "Auditing, compliance and financial technology"
+   ]
+  }
+ },
+ {
+  "id": "gst-taxation",
+  "title": "GST, Accounting & Taxation",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Certificate in Goods & Services Tax (GST)",
+    "url": "https://iisdt.in/product/gst/"
+   },
+   {
+    "title": "Diploma in Accounting & Taxation",
+    "url": "https://iisdt.in/product/diploma-in-accounting-taxation/"
+   },
+   {
+    "title": "Diploma in Corporate Tax Planning",
+    "url": "https://iisdt.in/product/diploma-in-corporate-tax-planning/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/gst/",
+   "code": "GST/Q0101",
+   "duration": "Two Months",
+   "eligibility": "12th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to GST",
+    "Registration and documentation",
+    "Supply under GST",
+    "Input tax credit",
+    "Returns and payment",
+    "Assessment, audit and legal provisions"
+   ]
+  }
+ },
+ {
+  "id": "financial-management",
+  "title": "Financial Management & Reporting",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Diploma in Financial Management",
+    "url": "https://iisdt.in/product/diploma-in-financial-management/"
+   },
+   {
+    "title": "Advanced Diploma in Finance Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-finance-management/"
+   },
+   {
+    "title": "Diploma in Financial Reporting and Control Account",
+    "url": "https://iisdt.in/product/diploma-in-financial-reporting-and-control-account/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-finance-management/",
+   "code": "ADFM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "Bachelor's degree or equivalent",
+   "moduleHeadings": [
+    "Principles of financial management",
+    "Financial accounting and reporting",
+    "Corporate finance and investment decisions",
+    "Financial markets and institutions",
+    "Investment and portfolio management",
+    "Financial risk management"
+   ]
+  }
+ },
+ {
+  "id": "financial-planning",
+  "title": "Financial Planning & Investment",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Diploma in Financial Planning",
+    "url": "https://iisdt.in/product/diploma-in-financial-planning/"
+   },
+   {
+    "title": "Diploma in Investment Planning and Management",
+    "url": "https://iisdt.in/product/diploma-in-investment-planning-and-management/"
+   },
+   {
+    "title": "Advanced Certification in Financial Risk & Insurance Planning",
+    "url": "https://iisdt.in/product/advanced-certification-in-financial-risk-insurance-planning/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-financial-planning/",
+   "code": "DFP/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to financial planning",
+    "Investment planning",
+    "Tax planning and optimisation",
+    "Retirement planning",
+    "Risk management and insurance planning",
+    "Estate planning and wealth transfer"
+   ]
+  }
+ },
+ {
+  "id": "stock-market",
+  "title": "Stock Market & Capital Markets",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Diploma in Stock Broker",
+    "url": "https://iisdt.in/product/diploma-in-stock-broker/"
+   },
+   {
+    "title": "Certificate in Capital Markets",
+    "url": "https://iisdt.in/product/certificate-in-capital-markets/"
+   },
+   {
+    "title": "Advanced Diploma in Indian Stock Market",
+    "url": "https://iisdt.in/product/advanced-diploma-in-indian-stock-market/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-indian-stock-market/",
+   "code": "ADISM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to stock markets",
+    "Fundamental analysis",
+    "Technical analysis",
+    "Derivatives and options",
+    "Investment strategies and portfolio management",
+    "Intraday and swing trading"
+   ]
+  }
+ },
+ {
+  "id": "banking-lending",
+  "title": "Banking, Mutual Funds & Loan Processing",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Certificate in Banking and Mutual Fund",
+    "url": "https://iisdt.in/product/certificate-in-banking-and-mutual-fund/"
+   },
+   {
+    "title": "Advanced Diploma in Banking Sales Representative",
+    "url": "https://iisdt.in/product/advanced-diploma-in-banking-sales-representative/"
+   },
+   {
+    "title": "Certificate in Loan Approval Officer",
+    "url": "https://iisdt.in/product/loan-approval-officer/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-banking-and-mutual-fund/",
+   "code": "CBMF/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to the banking and financial system",
+    "Banking operations and services",
+    "Principles of mutual funds",
+    "Investment and portfolio management",
+    "Banking and mutual fund regulations",
+    "Credit and loan management"
+   ]
+  }
+ },
+ {
+  "id": "insurance-advisory",
+  "title": "Insurance Advisory & Health Insurance",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Certificate in Life Insurance Advisor",
+    "url": "https://iisdt.in/product/certificate-in-life-insurance-advisor/"
+   },
+   {
+    "title": "Diploma in Health Economics and Insurance",
+    "url": "https://iisdt.in/product/diploma-in-health-economics-and-insurance/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-life-insurance-advisor/",
+   "code": "CLIA/Q0101",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to insurance",
+    "Classification of insurance",
+    "Documents to apply for a policy",
+    "Protection of policyholders",
+    "AML and KYC guidelines",
+    "Premiums and claims"
+   ]
+  }
+ },
+ {
+  "id": "international-economy",
+  "title": "International Economy & Finance",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Diploma in International Economy and Finance",
+    "url": "https://iisdt.in/product/diploma-in-international-economy-and-finance/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-international-economy-and-finance/",
+   "code": "DIEF/Q1001",
+   "duration": "Six Months",
+   "eligibility": "Bachelor's degree or equivalent",
+   "moduleHeadings": [
+    "Fundamentals of international economics",
+    "International trade and policy",
+    "Global financial markets and institutions",
+    "Foreign exchange and currency markets",
+    "International monetary systems and policies",
+    "Global banking and financial services"
+   ]
+  }
+ },
+ {
+  "id": "quantitative-techniques",
+  "title": "Quantitative Techniques in Business",
+  "category": "Accounting & finance",
+  "listings": [
+   {
+    "title": "Diploma in Quantitative Techniques in Business",
+    "url": "https://iisdt.in/product/diploma-in-quantitative-techniques-in-business/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-quantitative-techniques-in-business/",
+   "code": "DQTB/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to quantitative techniques",
+    "Correlation and regression",
+    "Probability and probability distributions",
+    "Time series and index numbers",
+    "Sampling",
+    "Univariate data analysis"
+   ]
+  }
+ },
+ {
+  "id": "human-resource-management",
+  "title": "Human Resource Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Diploma in Human Resource Management",
+    "url": "https://iisdt.in/product/diploma-in-human-resource-management/"
+   },
+   {
+    "title": "Diploma in Strategic Human Resource Management",
+    "url": "https://iisdt.in/product/diploma-in-strategic-hrm/"
+   },
+   {
+    "title": "Diploma in Personnel Management & Industrial Relations",
+    "url": "https://iisdt.in/product/diploma-in-personnel-management-industrial-relations/"
+   },
+   {
+    "title": "Diploma in HR and Payroll Management",
+    "url": "https://iisdt.in/product/diploma-in-hr-and-payroll-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-human-resource-management/",
+   "code": "DHRM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Principles of HRM and organisational behaviour",
+    "Talent acquisition and employee relations",
+    "Performance management and training",
+    "Compensation, motivation and engagement",
+    "Labour laws and workplace diversity",
+    "Strategic HRM, wellbeing and HR audit"
+   ]
+  }
+ },
+ {
+  "id": "sales-marketing-management",
+  "title": "Sales & Marketing Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Sales and Marketing Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-sales-and-marketing-management/"
+   },
+   {
+    "title": "Diploma in Industrial Marketing",
+    "url": "https://iisdt.in/product/diploma-in-industrial-marketing/"
+   },
+   {
+    "title": "Diploma in International Marketing",
+    "url": "https://iisdt.in/product/diploma-in-international-marketing/"
+   },
+   {
+    "title": "Diploma in Marketing and Public Relationship Management",
+    "url": "https://iisdt.in/product/diploma-in-marketing-and-public-relationship-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-sales-and-marketing-management/",
+   "code": "ADSMM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Fundamentals of sales and marketing",
+    "Market research and consumer insights",
+    "Sales planning and management",
+    "Marketing strategies and brand management",
+    "Digital marketing and e-commerce",
+    "Business development and B2B sales"
+   ]
+  }
+ },
+ {
+  "id": "brand-product-management",
+  "title": "Brand & Product Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Certificate in Brand Management",
+    "url": "https://iisdt.in/product/certificate-in-brand-management/"
+   },
+   {
+    "title": "Diploma in Product and Brand Management",
+    "url": "https://iisdt.in/product/diploma-in-product-and-brand-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-product-and-brand-management/",
+   "code": "DPBM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Fundamentals of product and brand management",
+    "Market research and consumer insights",
+    "Product development and innovation",
+    "Brand strategy and positioning",
+    "Marketing strategies for growth",
+    "Advertising and promotion strategies"
+   ]
+  }
+ },
+ {
+  "id": "business-strategy",
+  "title": "Business Strategy, Corporate & Cooperative Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Certificate in Business Strategy",
+    "url": "https://iisdt.in/product/certificate-in-business-strategy/"
+   },
+   {
+    "title": "Advanced Certification in Corporate Management & Operations",
+    "url": "https://iisdt.in/product/advanced-certification-in-corporate-management-operations/"
+   },
+   {
+    "title": "Diploma in Cooperative Management",
+    "url": "https://iisdt.in/product/diploma-in-cooperative-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-certification-in-corporate-management-operations/",
+   "code": "ACCMO/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Principles and practices of management",
+    "Human resources and organisational behaviour",
+    "Operations and supply chain management",
+    "Business strategy and entrepreneurship",
+    "IT and business analytics",
+    "Leadership and corporate governance"
+   ]
+  }
+ },
+ {
+  "id": "project-quality-management",
+  "title": "Project Management & Six Sigma",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Diploma in Project Management",
+    "url": "https://iisdt.in/product/diploma-in-project-management/"
+   },
+   {
+    "title": "Diploma in Six Sigma",
+    "url": "https://iisdt.in/product/diploma-in-six-sigma/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-project-management/",
+   "code": "CPM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Project initiation and governance",
+    "Scope management and work breakdown",
+    "Scheduling and network analysis",
+    "Cost estimation, budgeting and earned value",
+    "Quality, resources and communication",
+    "Risk, procurement and closure"
+   ]
+  }
+ },
+ {
+  "id": "entrepreneurship",
+  "title": "Entrepreneurship Development",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Diploma in Entrepreneurship",
+    "url": "https://iisdt.in/product/diploma-in-entrepreneurship/"
+   },
+   {
+    "title": "Advanced Diploma in Entrepreneurship Development",
+    "url": "https://iisdt.in/product/advanced-diploma-in-entrepreneurship-development/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-entrepreneurship-development/",
+   "code": "ADED/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to entrepreneurship",
+    "Idea generation and innovation",
+    "Business planning and feasibility",
+    "Financial management for entrepreneurs",
+    "Marketing and sales strategies",
+    "Business operations and management"
+   ]
+  }
+ },
+ {
+  "id": "business-communication",
+  "title": "Business Communication & Personality Development",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Certificate in Business Communication",
+    "url": "https://iisdt.in/product/certificate-in-business-communication/"
+   },
+   {
+    "title": "Certificate in Advance Communication",
+    "url": "https://iisdt.in/product/certificate-in-advance-communication/"
+   },
+   {
+    "title": "Diploma in Communication Skills Trainers",
+    "url": "https://iisdt.in/product/diploma-in-communication-skills-trainers/"
+   },
+   {
+    "title": "Diploma in Personality Development Trainer",
+    "url": "https://iisdt.in/product/diploma-in-personality-development-trainer/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-business-communication/",
+   "code": "CBC/Q1001",
+   "duration": "Two Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to business communication",
+    "Verbal communication",
+    "Non-verbal communication",
+    "Written business communication",
+    "Digital communication",
+    "Business correspondence and documentation"
+   ]
+  }
+ },
+ {
+  "id": "english-language",
+  "title": "English Language & Proficiency",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Certificate in English Language Learning",
+    "url": "https://iisdt.in/product/certificate-in-english-language-learning/"
+   },
+   {
+    "title": "Certificate of Proficiency in English",
+    "url": "https://iisdt.in/product/certificate-of-proficiency-in-english/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-of-proficiency-in-english/",
+   "code": "CPE/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Paragraph writing",
+    "Comprehension of an unseen passage",
+    "Letter writing",
+    "Note taking and note making",
+    "Punctuation",
+    "Grammar and usage"
+   ]
+  }
+ },
+ {
+  "id": "customer-relationship",
+  "title": "Customer Relationship Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Diploma in Customer Relationship Management",
+    "url": "https://iisdt.in/product/diploma-in-customer-relationship-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-customer-relationship-management/",
+   "code": "DCRM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to CRM",
+    "CRM concepts and customer lifecycle",
+    "Planning for CRM",
+    "CRM and marketing strategy",
+    "CRM implementation",
+    "Service quality and customer support"
+   ]
+  }
+ },
+ {
+  "id": "office-administration",
+  "title": "Office Administration & Front Desk",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Office Administration and Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-office-administration-and-management/"
+   },
+   {
+    "title": "Diploma in Office Assistanship",
+    "url": "https://iisdt.in/product/diploma-in-office-assistanship/"
+   },
+   {
+    "title": "Certificate in Receptionist",
+    "url": "https://iisdt.in/product/certificate-in-receptionist/"
+   },
+   {
+    "title": "Diploma in Front Office Operation Management",
+    "url": "https://iisdt.in/product/diploma-in-front-office-operation-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-office-administration-and-management/",
+   "code": "ADOAM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to office administration",
+    "Business communication and correspondence",
+    "Office technology and digital tools",
+    "Financial administration and budgeting",
+    "HR in office administration",
+    "Office operations and facility management"
+   ]
+  }
+ },
+ {
+  "id": "supply-chain-logistics",
+  "title": "Supply Chain & Logistics Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Certificate in Supply Chain Management",
+    "url": "https://iisdt.in/product/certificate-in-supply-chain-management/"
+   },
+   {
+    "title": "Diploma in Supply Chain Management",
+    "url": "https://iisdt.in/product/diploma-in-supply-chain-management/"
+   },
+   {
+    "title": "Diploma in Logistic Management",
+    "url": "https://iisdt.in/product/diploma-in-logistic-management/"
+   },
+   {
+    "title": "Diploma in Logistics Supply Chain Management & Retail Management",
+    "url": "https://iisdt.in/product/diploma-in-logistics-supply-chain-management-retail-management/"
+   },
+   {
+    "title": "Diploma in Material Management",
+    "url": "https://iisdt.in/product/diploma-in-material-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-supply-chain-management/",
+   "code": "DSCM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Supply chain management",
+    "Inventory and warehouse management",
+    "Logistics and distribution management",
+    "Demand planning and supply chain risk",
+    "Digital supply chain and emerging technologies",
+    "Sustainability and strategy"
+   ]
+  }
+ },
+ {
+  "id": "courier-delivery",
+  "title": "Courier & Delivery Operations",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Diploma in Courier and Logistics Management",
+    "url": "https://iisdt.in/product/diploma-in-courier-and-logistics-management/"
+   },
+   {
+    "title": "Certificate in Courier Delivery Executive",
+    "url": "https://iisdt.in/product/courier-delivery-executive/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-courier-and-logistics-management/",
+   "code": "DCLM/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to the courier and logistics industry",
+    "Transportation management",
+    "Warehousing and inventory management",
+    "Courier operations and parcel management",
+    "Supply chain management in logistics",
+    "Customs clearance and international logistics"
+   ]
+  }
+ },
+ {
+  "id": "inventory-warehouse",
+  "title": "Inventory & Warehouse Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Diploma in Inventory and Warehouse Management",
+    "url": "https://iisdt.in/product/diploma-in-inventory-and-warehouse-management/"
+   },
+   {
+    "title": "Certificate in Warehouse Worker",
+    "url": "https://iisdt.in/product/certificate-in-warehouse-worker/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-inventory-and-warehouse-management/",
+   "code": "DI&WM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to inventory and warehouse management",
+    "Inventory classification and control techniques",
+    "Warehouse operations and storage systems",
+    "Inventory systems and technology",
+    "Demand forecasting and supply chain integration",
+    "Safety, security and compliance"
+   ]
+  }
+ },
+ {
+  "id": "cold-storage",
+  "title": "Cold Storage Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Diploma in Cold Storage Manager",
+    "url": "https://iisdt.in/product/diploma-in-cold-storage-manager/"
+   },
+   {
+    "title": "Diploma in Cold Storage Supervisor",
+    "url": "https://iisdt.in/product/cold-storage-supervisor/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-cold-storage-manager/",
+   "code": "DCSM/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to cold storage",
+    "Refrigeration techniques",
+    "Safety, hygiene and sanitation",
+    "Supervising workers",
+    "Maintaining infrastructure",
+    "Health and safety at cold storage premises"
+   ]
+  }
+ },
+ {
+  "id": "export-import",
+  "title": "Export-Import Management",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Export Import Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-export-import-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-export-import-management/",
+   "code": "ADEIM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to export-import management",
+    "Documentation and procedures",
+    "Foreign trade policy and regulatory framework",
+    "International marketing and market entry",
+    "Export finance and payment mechanisms",
+    "Import management and procedures"
+   ]
+  }
+ },
+ {
+  "id": "retail-vehicle-sales",
+  "title": "Retail Management & Vehicle Sales",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Retail Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-retail-management/"
+   },
+   {
+    "title": "Diploma in Sales Consultant (Pre-owned Vehicles)",
+    "url": "https://iisdt.in/product/diploma-in-sales-consultant-pre-owned-vehicles/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-retail-management/",
+   "code": "ADRM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Fundamentals of retailing",
+    "Retail consumer behaviour and CRM",
+    "Retail marketing and visual merchandising",
+    "Merchandise planning and buying",
+    "Store operations and supply chain",
+    "Digital retailing and leadership"
+   ]
+  }
+ },
+ {
+  "id": "healthcare-administration",
+  "title": "Healthcare & Hospital Administration",
+  "category": "Business & management",
+  "listings": [
+   {
+    "title": "Diploma in Strategic Management for Hospital",
+    "url": "https://iisdt.in/product/diploma-in-strategic-management-for-hospital/"
+   },
+   {
+    "title": "Certificate in Hospital Front Desk Coordinator",
+    "url": "https://iisdt.in/product/hospital-front-desk-coordinator/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-strategic-management-for-hospital/",
+   "code": "DSMH/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to hospital strategic management",
+    "Hospital operations and administration",
+    "Healthcare marketing and branding",
+    "Financial management in hospitals",
+    "HR management in healthcare",
+    "Quality management and accreditation"
+   ]
+  }
+ },
+ {
+  "id": "company-law",
+  "title": "Industrial & Company Law",
+  "category": "Law, governance & society",
+  "listings": [
+   {
+    "title": "Advanced Certificate in Industrial and Company Law",
+    "url": "https://iisdt.in/product/advanced-certificate-in-industrial-and-company-law/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-certificate-in-industrial-and-company-law/",
+   "code": "ACICL/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to industrial and company law",
+    "Labour and employment law",
+    "Company formation and governance",
+    "Company finance and securities law",
+    "Mergers, acquisitions and restructuring",
+    "Corporate taxation and compliance"
+   ]
+  }
+ },
+ {
+  "id": "intellectual-property",
+  "title": "Intellectual Property Rights",
+  "category": "Law, governance & society",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Intellectual Property Rights",
+    "url": "https://iisdt.in/product/advanced-diploma-in-intellectual-property-rights/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-intellectual-property-rights/",
+   "code": "ADIPR/Q1001",
+   "duration": "Six Months",
+   "eligibility": "Bachelor's degree or equivalent",
+   "moduleHeadings": [
+    "Introduction to IPR",
+    "Patents and patent law",
+    "Copyrights and related rights",
+    "Trademarks and brand protection",
+    "Trade secrets and confidential information",
+    "IPR enforcement, litigation and international perspectives"
+   ]
+  }
+ },
+ {
+  "id": "human-rights",
+  "title": "Human Rights",
+  "category": "Law, governance & society",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Human Rights",
+    "url": "https://iisdt.in/product/advanced-diploma-in-human-rights/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-human-rights/",
+   "code": "ADHR/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to human rights",
+    "Human rights and international law",
+    "Violations and accountability",
+    "Civil and political rights",
+    "Economic, social and cultural rights",
+    "Human rights and gender equality"
+   ]
+  }
+ },
+ {
+  "id": "public-administration",
+  "title": "Public Administration & Indian Political System",
+  "category": "Law, governance & society",
+  "listings": [
+   {
+    "title": "Advanced Certificate in Public Administration",
+    "url": "https://iisdt.in/product/advanced-certificate-in-public-administration/"
+   },
+   {
+    "title": "Advanced Certification in Indian Political System & Administration",
+    "url": "https://iisdt.in/product/advanced-certification-in-indian-political-system-administration/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-certificate-in-public-administration/",
+   "code": "ACPA/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to public administration",
+    "Government structure and functions",
+    "Public policy and governance",
+    "Administrative law and public accountability",
+    "E-governance and digital administration",
+    "Public sector reforms and development administration"
+   ]
+  }
+ },
+ {
+  "id": "social-work",
+  "title": "Social Work & Development",
+  "category": "Law, governance & society",
+  "listings": [
+   {
+    "title": "Diploma in Social Work & Development",
+    "url": "https://iisdt.in/product/diploma-in-social-work-development/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-social-work-development/",
+   "code": "DSWD/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to social work",
+    "Community development and empowerment",
+    "Social work with individuals and families",
+    "Social policy and legislation",
+    "Social research and impact assessment",
+    "Social work in health and rehabilitation"
+   ]
+  }
+ },
+ {
+  "id": "esg-sustainability",
+  "title": "Environmental, Social & Governance (ESG)",
+  "category": "Law, governance & society",
+  "listings": [
+   {
+    "title": "Diploma in Environmental Social and Governance",
+    "url": "https://iisdt.in/product/diploma-in-environmental-social-and-governance/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-environmental-social-and-governance/",
+   "code": "DESG/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Foundations of ESG",
+    "Environmental pillar",
+    "Social pillar",
+    "Governance pillar",
+    "ESG reporting and performance measurement",
+    "ESG integration and implementation"
+   ]
+  }
+ },
+ {
+  "id": "health-family-welfare",
+  "title": "Health, Family Welfare & Population Education",
+  "category": "Law, governance & society",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Health Family Welfare and Population Education",
+    "url": "https://iisdt.in/product/advanced-diploma-in-health-family-welfare-and-population-education/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-health-family-welfare-and-population-education/",
+   "code": "ADHFWPE/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to health, family welfare and population education",
+    "Health and nutrition",
+    "Family welfare and maternal health",
+    "Population dynamics and demographic trends",
+    "Epidemiology and disease prevention",
+    "Reproductive health and adolescent care"
+   ]
+  }
+ },
+ {
+  "id": "hotel-management",
+  "title": "Hotel & Resort Management",
+  "category": "Hospitality, travel & events",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Hotel Business Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-hotel-business-management/"
+   },
+   {
+    "title": "Advanced Certification in Hotel & Resort Business Management",
+    "url": "https://iisdt.in/product/advanced-certification-in-hotel-resort-business-management/"
+   },
+   {
+    "title": "Advanced Diploma in Accounting & Hospitality",
+    "url": "https://iisdt.in/product/advanced-diploma-in-accounting-hospitality/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-hotel-business-management/",
+   "code": "ADHBM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to hotel business management",
+    "Food and beverage management",
+    "Housekeeping and facility management",
+    "Marketing and sales in the hotel industry",
+    "Financial management in hotels",
+    "Hotel entrepreneurship and business development"
+   ]
+  }
+ },
+ {
+  "id": "housekeeping",
+  "title": "Housekeeping Management",
+  "category": "Hospitality, travel & events",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Housekeeping Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-housekeeping-management/"
+   },
+   {
+    "title": "Diploma in Hospital House keeping",
+    "url": "https://iisdt.in/product/diploma-in-hospital-house-keeping/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-housekeeping-management/",
+   "code": "ADHM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to housekeeping",
+    "Guest room and HR management",
+    "Cleaning science and laundry",
+    "Inventory and budgeting",
+    "Safety and guest service",
+    "Technology and interior decoration"
+   ]
+  }
+ },
+ {
+  "id": "travel-tourism",
+  "title": "Travel, Tourism & Travel Agency Management",
+  "category": "Hospitality, travel & events",
+  "listings": [
+   {
+    "title": "Certificate in Tour and Travel Management",
+    "url": "https://iisdt.in/product/certificate-in-tour-and-travel-management/"
+   },
+   {
+    "title": "Certificate in Tour and Travel",
+    "url": "https://iisdt.in/product/certificate-in-tour-and-travel/"
+   },
+   {
+    "title": "Certificate in Tours Travel & Tourism Management",
+    "url": "https://iisdt.in/product/certificate-in-tours-travel-tourism-management/"
+   },
+   {
+    "title": "Certificate in Tourism Management",
+    "url": "https://iisdt.in/product/certificate-in-tourism-management/"
+   },
+   {
+    "title": "Certificate in Travel & Tourism Operations",
+    "url": "https://iisdt.in/product/certificate-in-travel-tourism-operations/"
+   },
+   {
+    "title": "Professional Certificate in Travel Agency Management",
+    "url": "https://iisdt.in/product/professional-certificate-in-travel-agency-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/professional-certificate-in-travel-agency-management/",
+   "code": "PCTAM/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to the travel and tourism industry",
+    "Travel documentation and formalities",
+    "Air ticketing and reservation systems",
+    "Tour packaging and itinerary planning",
+    "Sales, marketing and customer handling",
+    "Setting up and managing a travel agency"
+   ]
+  }
+ },
+ {
+  "id": "event-wedding",
+  "title": "Event & Wedding Management",
+  "category": "Hospitality, travel & events",
+  "listings": [
+   {
+    "title": "Diploma in Event Management",
+    "url": "https://iisdt.in/product/diploma-in-event-management/"
+   },
+   {
+    "title": "Advanced Diploma in Event Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-event-management/"
+   },
+   {
+    "title": "Diploma in Wedding and Event Management",
+    "url": "https://iisdt.in/product/diploma-in-wedding-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-event-management/",
+   "code": "ADEM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to event management",
+    "Event marketing and promotion",
+    "Event logistics and operations",
+    "Types of events and their management",
+    "Event financial management and budgeting",
+    "Post-event evaluation, legal and ethical considerations"
+   ]
+  }
+ },
+ {
+  "id": "cooking-baking",
+  "title": "Cooking & Baking",
+  "category": "Hospitality, travel & events",
+  "listings": [
+   {
+    "title": "Diploma in Cooking and Baking",
+    "url": "https://iisdt.in/product/diploma-in-cooking-and-baking/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-cooking-and-baking/",
+   "code": "DCB/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Culinary arts and kitchen fundamentals",
+    "Baking and pastry fundamentals",
+    "Cooking techniques and cuisines",
+    "Advanced cake baking and decorating",
+    "Desserts and confectionery",
+    "Advanced pastry and chocolate work"
+   ]
+  }
+ },
+ {
+  "id": "temple-management",
+  "title": "Temple Management",
+  "category": "Hospitality, travel & events",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Temple Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-temple-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-temple-management/",
+   "code": "ADTM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to temple management",
+    "Temple architecture and infrastructure maintenance",
+    "Temple rituals and worship management",
+    "Financial and revenue management",
+    "Human resource and volunteer management",
+    "Pilgrimage and devotee services"
+   ]
+  }
+ },
+ {
+  "id": "montessori",
+  "title": "Montessori Education",
+  "category": "Education & training",
+  "listings": [
+   {
+    "title": "Skill-Based Diploma in Montessori Education & Early Learning",
+    "url": "https://iisdt.in/product/montessori-teacher-training/"
+   },
+   {
+    "title": "Skill-Based Advanced Diploma in Montessori Education & Pedagogy",
+    "url": "https://iisdt.in/product/advanced-diploma-in-montessori-teacher-training/"
+   },
+   {
+    "title": "Diploma in Montessori & Early Childhood Learning",
+    "url": "https://iisdt.in/product/diploma-in-montessori-early-childhood-learning/"
+   },
+   {
+    "title": "Certificate in Early Childhood Montessori Education",
+    "url": "https://iisdt.in/product/certificate-in-early-childhood-montessori-education/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/montessori-teacher-training/",
+   "code": "SBDMEEL/Q001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to Montessori education",
+    "Child psychology and development",
+    "Language and mathematics",
+    "Cultural studies, art, music and creativity",
+    "Classroom management and observation",
+    "Parental engagement and communication"
+   ]
+  }
+ },
+ {
+  "id": "nursery-preprimary",
+  "title": "Nursery & Pre-Primary Teacher Training",
+  "category": "Education & training",
+  "listings": [
+   {
+    "title": "Diploma in Practical Nursery & Early Childhood Teaching",
+    "url": "https://iisdt.in/product/nursery-teacher-training-ntt/"
+   },
+   {
+    "title": "Industry-Oriented Diploma in Pre-Primary Teaching Skills",
+    "url": "https://iisdt.in/product/pre-primary-teacher-training/"
+   },
+   {
+    "title": "Skill-Based Diploma in Early Childhood & Pre-School Education",
+    "url": "https://iisdt.in/product/diploma-in-pre-school-teacher-training/"
+   },
+   {
+    "title": "Certificate in Nursery Education Skills",
+    "url": "https://iisdt.in/product/certificate-in-nursery-education-skills/"
+   },
+   {
+    "title": "Diploma in Interactive Teaching for Nursery & Early Childhood",
+    "url": "https://iisdt.in/product/advanced-diploma-in-nursery-teacher-training/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/nursery-teacher-training-ntt/",
+   "code": "DPNECT/Q001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Foundations of early childhood education",
+    "Child growth and development",
+    "Teaching methodologies and strategies",
+    "Curriculum planning and classroom management",
+    "Child psychology and special needs",
+    "Evaluation, communication and professional development"
+   ]
+  }
+ },
+ {
+  "id": "early-childhood-care",
+  "title": "Early Childhood Care & Development",
+  "category": "Education & training",
+  "listings": [
+   {
+    "title": "Advance Certificate in Early Childhood Care and Education",
+    "url": "https://iisdt.in/product/advance-certificate-in-early-childhood-care-and-education/"
+   },
+   {
+    "title": "Certificate in Preschool Child Development & Learning",
+    "url": "https://iisdt.in/product/certificate-in-preschool-child-development-learning/"
+   },
+   {
+    "title": "Diploma in Child Caregiver Skills",
+    "url": "https://iisdt.in/product/diploma-in-child-caregiver-skills/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advance-certificate-in-early-childhood-care-and-education/",
+   "code": "ACECE/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Foundations of early childhood education",
+    "Child growth and development",
+    "Curriculum and pedagogical approaches",
+    "Classroom management and environments",
+    "Health, nutrition and safety",
+    "Psychological and emotional development"
+   ]
+  }
+ },
+ {
+  "id": "teaching-methods",
+  "title": "Primary Education & Teaching Methods",
+  "category": "Education & training",
+  "listings": [
+   {
+    "title": "Industry-Oriented Diploma in Primary Education & Pedagogy",
+    "url": "https://iisdt.in/product/diploma-in-primary-education/"
+   },
+   {
+    "title": "Diploma in Practical Teaching Methods and Classroom Management",
+    "url": "https://iisdt.in/product/diploma-in-practical-teaching-methods-and-classroom-management/"
+   },
+   {
+    "title": "Advanced Diploma in Practical Teaching and Learning Strategies",
+    "url": "https://iisdt.in/product/advanced-diploma-in-practical-teaching-and-learning-strategies/"
+   },
+   {
+    "title": "Advanced Training in Preschool & Primary Teaching Methods",
+    "url": "https://iisdt.in/product/advanced-training-in-preschool-primary-teaching-methods/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-primary-education/",
+   "code": "IODPEP/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Child psychology",
+    "Child health care",
+    "Principles of primary education",
+    "Modern methods of teaching",
+    "Working with parents and community",
+    "Educational psychology"
+   ]
+  }
+ },
+ {
+  "id": "school-management",
+  "title": "School Management",
+  "category": "Education & training",
+  "listings": [
+   {
+    "title": "Advanced Diploma in School Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-school-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-school-management/",
+   "code": "ADSM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "School management and leadership",
+    "Educational policies and regulatory framework",
+    "Curriculum planning and development",
+    "School operations and administration",
+    "Human resource management in schools",
+    "School marketing and public relations"
+   ]
+  }
+ },
+ {
+  "id": "counselling",
+  "title": "Career, Education & Applied Counselling",
+  "category": "Education & training",
+  "listings": [
+   {
+    "title": "Diploma in Career and Education Counseling",
+    "url": "https://iisdt.in/product/diploma-in-career-and-education-counseling/"
+   },
+   {
+    "title": "Certificate in Applied Counselling Skills",
+    "url": "https://iisdt.in/product/certificate-in-applied-counselling-skills/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-career-and-education-counseling/",
+   "code": "DCEC/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to career and education counselling",
+    "Student psychology and development",
+    "Career assessment tools and techniques",
+    "Educational pathways and career opportunities",
+    "Counselling techniques and session management",
+    "Professional practice and career advancement"
+   ]
+  }
+ },
+ {
+  "id": "library-science",
+  "title": "Library Science",
+  "category": "Education & training",
+  "listings": [
+   {
+    "title": "Diploma in Library Science",
+    "url": "https://iisdt.in/product/diploma-in-library-science/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-library-science/",
+   "code": "DLS/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Foundations of library and information science",
+    "Library classification",
+    "Library cataloguing and metadata",
+    "Library management and administration",
+    "Information sources and services",
+    "Information technology and library automation"
+   ]
+  }
+ },
+ {
+  "id": "sports-physical-education",
+  "title": "Sports Coaching & Physical Education",
+  "category": "Education & training",
+  "listings": [
+   {
+    "title": "Skill-Based Diploma in Sports Coaching & Physical Education",
+    "url": "https://iisdt.in/product/diploma-in-physical-education/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-physical-education/",
+   "code": "SBDSCPE/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Foundations of physical education",
+    "Anatomy and physiology in sports",
+    "Health education and nutrition",
+    "Sports psychology and sociology",
+    "Sports training and yoga",
+    "Organisation, administration, rules and officiating"
+   ]
+  }
+ },
+ {
+  "id": "fitness-training",
+  "title": "Fitness, Personal Training & Bodybuilding",
+  "category": "Yoga, fitness & wellbeing",
+  "listings": [
+   {
+    "title": "Diploma in Fitness Trainer",
+    "url": "https://iisdt.in/product/diploma-in-fitness-trainer/"
+   },
+   {
+    "title": "Diploma in Personal Trainer",
+    "url": "https://iisdt.in/product/diploma-in-personal-trainer/"
+   },
+   {
+    "title": "Diploma in Body Building",
+    "url": "https://iisdt.in/product/diploma-in-body-building/"
+   },
+   {
+    "title": "Diploma in Fitness Cum Yoga Trainer",
+    "url": "https://iisdt.in/product/diploma-in-fitness-cum-yoga-trainer/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-fitness-trainer/",
+   "code": "DFT/Q001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to fitness training",
+    "Principles of exercise science",
+    "Cardiovascular training and endurance",
+    "Nutrition and supplementation",
+    "Fitness assessments and corrective exercise",
+    "Sports psychology and coaching skills"
+   ]
+  }
+ },
+ {
+  "id": "weight-management",
+  "title": "Obesity & Weight Management",
+  "category": "Yoga, fitness & wellbeing",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Obesity and Weight Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-obesity-and-weight-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-obesity-and-weight-management/",
+   "code": "ADOWM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "Bachelor's degree or equivalent",
+   "moduleHeadings": [
+    "Introduction to obesity and weight management",
+    "Nutritional approaches",
+    "Exercise and physical activity",
+    "Psychological and behavioural aspects",
+    "Medical and pharmacological interventions",
+    "Technology and innovations"
+   ]
+  }
+ },
+ {
+  "id": "yoga-foundations",
+  "title": "Yoga Foundations",
+  "category": "Yoga, fitness & wellbeing",
+  "listings": [
+   {
+    "title": "Certificate in Yoga",
+    "url": "https://iisdt.in/product/certificate-course-in-yoga/"
+   },
+   {
+    "title": "Diploma in Yoga",
+    "url": "https://iisdt.in/product/diploma-in-yoga/"
+   },
+   {
+    "title": "Certificate in Yogaasana and Pranayama",
+    "url": "https://iisdt.in/product/certificate-in-yogaasana-and-pranayama/"
+   },
+   {
+    "title": "Certificate in Yoga Practice & Wellness",
+    "url": "https://iisdt.in/product/certificate-in-yoga-practice-wellness/"
+   },
+   {
+    "title": "Diploma in Yoga Wellness Practices",
+    "url": "https://iisdt.in/product/diploma-in-yoga-wellness-practices/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-yoga/",
+   "code": "DY/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to yoga",
+    "Asanas",
+    "Pranayama",
+    "Meditation techniques",
+    "Anatomy and physiology for yoga",
+    "Yoga therapy and healing"
+   ]
+  }
+ },
+ {
+  "id": "yoga-instruction",
+  "title": "Yoga Education & Instruction",
+  "category": "Yoga, fitness & wellbeing",
+  "listings": [
+   {
+    "title": "Diploma In Yoga Education",
+    "url": "https://iisdt.in/product/diploma-in-yoga-education/"
+   },
+   {
+    "title": "Diploma in Yoga Education",
+    "url": "https://iisdt.in/product/diploma-course-in-yoga-education/"
+   },
+   {
+    "title": "Certificate in Yoga Instruction Skills",
+    "url": "https://iisdt.in/product/certificate-in-yoga-instruction-skills/"
+   },
+   {
+    "title": "Diploma in Yoga Instruction & Practice",
+    "url": "https://iisdt.in/product/diploma-in-yoga-instruction-practice/"
+   },
+   {
+    "title": "Diploma in Yoga Trainer",
+    "url": "https://iisdt.in/product/diploma-in-yoga-trainer/"
+   },
+   {
+    "title": "Diploma in Yoga Science & Facilitation",
+    "url": "https://iisdt.in/product/diploma-in-yoga-science-facilitation/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-yoga-education/",
+   "code": "DYE/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Foundations of yoga and Indian philosophy",
+    "Anatomy and physiology for yoga practice",
+    "Hatha yoga: asana, shatkarma and mudra",
+    "Patanjali and meditation",
+    "Yoga education and teaching methodology",
+    "Applied yoga and spiritual development"
+   ]
+  }
+ },
+ {
+  "id": "yoga-science",
+  "title": "Yoga Science & Advanced Practice",
+  "category": "Yoga, fitness & wellbeing",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Yoga Science",
+    "url": "https://iisdt.in/product/advanced-diploma-in-yoga-science/"
+   },
+   {
+    "title": "Advanced Certificate in Advanced Yoga Practices",
+    "url": "https://iisdt.in/product/advanced-yoga-practitioner-therapy-training/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-yoga-science/",
+   "code": "ADYS/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Foundations of yoga science",
+    "Human anatomy and physiology in yoga",
+    "Advanced asanas and therapeutic applications",
+    "Advanced pranayama and yogic breathing",
+    "Meditation, mindfulness and consciousness",
+    "Yoga therapy and holistic healing"
+   ]
+  }
+ },
+ {
+  "id": "yoga-therapy",
+  "title": "Yoga Therapy & Nature Care",
+  "category": "Yoga, fitness & wellbeing",
+  "listings": [
+   {
+    "title": "Certificate in Yoga Therapy",
+    "url": "https://iisdt.in/product/certificate-in-yoga-therapy/"
+   },
+   {
+    "title": "Diploma in Therapeutic Yoga",
+    "url": "https://iisdt.in/product/diploma-in-therapeutic-yoga/"
+   },
+   {
+    "title": "Diploma in Yoga and Nature Care",
+    "url": "https://iisdt.in/product/diploma-in-yoga-and-nature-care/"
+   },
+   {
+    "title": "Diploma in Yoga & Nature care",
+    "url": "https://iisdt.in/product/diploma-in-yoga-nature-care/"
+   },
+   {
+    "title": "Advanced Training in Yoga & Acupressure Techniques",
+    "url": "https://iisdt.in/product/advanced-training-in-yoga-acupressure-techniques/"
+   },
+   {
+    "title": "Diploma in Yoga and Massage",
+    "url": "https://iisdt.in/product/diploma-in-yoga-and-massage/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-yoga-therapy/",
+   "code": "CYT/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to yoga therapy",
+    "Anatomy and physiology in yoga therapy",
+    "Yogic practices for therapy",
+    "Yoga therapy for physical ailments",
+    "Yoga therapy for mental health and emotional wellbeing",
+    "Yoga therapy for women's health"
+   ]
+  }
+ },
+ {
+  "id": "meditation",
+  "title": "Meditation & Mindfulness",
+  "category": "Yoga, fitness & wellbeing",
+  "listings": [
+   {
+    "title": "Certificate in Meditation",
+    "url": "https://iisdt.in/product/certificate-in-meditation/"
+   },
+   {
+    "title": "Diploma in Meditation",
+    "url": "https://iisdt.in/product/diploma-in-meditation/"
+   },
+   {
+    "title": "Certificate in Mindfulness and Meditation Focused Yoga",
+    "url": "https://iisdt.in/product/certificate-in-mindfulness-and-meditation-focused-yoga/"
+   },
+   {
+    "title": "Diploma in Meditation Yoga and Tantra",
+    "url": "https://iisdt.in/product/diploma-in-meditation-yoga-and-tantra/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-meditation/",
+   "code": "DIM/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to meditation",
+    "Mindfulness and awareness techniques",
+    "Breathwork and pranayama in meditation",
+    "Concentration and visualisation techniques",
+    "Chakra and energy meditation",
+    "Meditation for emotional and mental wellbeing"
+   ]
+  }
+ },
+ {
+  "id": "massage-spa",
+  "title": "Relaxation Massage & Spa Therapy",
+  "category": "Yoga, fitness & wellbeing",
+  "listings": [
+   {
+    "title": "Certificate in Relaxation Massage Techniques",
+    "url": "https://iisdt.in/product/certificate-in-relaxation-massage-techniques/"
+   },
+   {
+    "title": "Diploma in Spa & Relaxation Techniques",
+    "url": "https://iisdt.in/product/diploma-in-spa-relaxation-techniques/"
+   },
+   {
+    "title": "Diploma in Spa Trainer",
+    "url": "https://iisdt.in/product/diploma-in-spa-trainer/"
+   },
+   {
+    "title": "Diploma in Advanced Spa & Wellness Services",
+    "url": "https://iisdt.in/product/diploma-in-advanced-spa-wellness-services/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-relaxation-massage-techniques/",
+   "code": "CRMT/Q0001",
+   "duration": "Two Months",
+   "eligibility": "No formal qualification required",
+   "moduleHeadings": [
+    "Introduction to massage therapy",
+    "Anatomy and physiology",
+    "Techniques and methods",
+    "Body mechanics and posture",
+    "Specialised massage techniques",
+    "Health and safety protocols"
+   ]
+  }
+ },
+ {
+  "id": "beauty-care",
+  "title": "Beauty Care & Wellness",
+  "category": "Beauty & personal care",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Beauty Care",
+    "url": "https://iisdt.in/product/advanced-diploma-in-beauty-care/"
+   },
+   {
+    "title": "Diploma in Beauty Parlour",
+    "url": "https://iisdt.in/product/diploma-in-beauty-parlour/"
+   },
+   {
+    "title": "Diploma in Beauty Care",
+    "url": "https://iisdt.in/product/diploma-in-beauty-care/"
+   },
+   {
+    "title": "Diploma in Beauty Care & Wellness",
+    "url": "https://iisdt.in/product/diploma-in-beauty-care-wellness/"
+   },
+   {
+    "title": "Diploma in Advanced Beauty & Wellness Services",
+    "url": "https://iisdt.in/product/diploma-in-advanced-beauty-wellness-services/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-beauty-care/",
+   "code": "ADBC/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to beauty therapy",
+    "Nail care and nail art",
+    "Skin care and treatments",
+    "Hair removal techniques",
+    "Anatomy and physiology",
+    "Business skills for beauty therapists"
+   ]
+  }
+ },
+ {
+  "id": "makeup-artistry",
+  "title": "Makeup Artistry & Bridal Styling",
+  "category": "Beauty & personal care",
+  "listings": [
+   {
+    "title": "Diploma in Professional Makeup Artist",
+    "url": "https://iisdt.in/product/diploma-in-professional-makeup/"
+   },
+   {
+    "title": "Diploma in Bridal Fashion and Makeup Artist",
+    "url": "https://iisdt.in/product/bridal-fashion-and-makeup-artist/"
+   },
+   {
+    "title": "Diploma in Make Up & Hair Dressing",
+    "url": "https://iisdt.in/product/diploma-in-make-up-hair-dressing/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-professional-makeup/",
+   "code": "DPMA/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to professional makeup artistry",
+    "Skin preparation and foundation techniques",
+    "Eye makeup techniques",
+    "Lip makeup and cheek enhancement",
+    "Bridal and traditional makeup",
+    "Fashion and editorial makeup"
+   ]
+  }
+ },
+ {
+  "id": "hair-salon",
+  "title": "Hair Styling, Barbering & Salon Management",
+  "category": "Beauty & personal care",
+  "listings": [
+   {
+    "title": "Diploma in Hair Stylist",
+    "url": "https://iisdt.in/product/diploma-in-hair-stylist/"
+   },
+   {
+    "title": "Diploma in Barber",
+    "url": "https://iisdt.in/product/diploma-in-barber/"
+   },
+   {
+    "title": "Diploma in Salon Management Hair Dressing",
+    "url": "https://iisdt.in/product/salon-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-hair-stylist/",
+   "code": "DHS/Q0001",
+   "duration": "Six Months",
+   "eligibility": "8th Grade or equivalent",
+   "moduleHeadings": [
+    "Hair styling and hair science",
+    "Hair cutting techniques",
+    "Hair colouring and chemical treatments",
+    "Hair styling techniques",
+    "Hair and scalp treatments",
+    "Salon management and client handling"
+   ]
+  }
+ },
+ {
+  "id": "nail-technician",
+  "title": "Nail Technician",
+  "category": "Beauty & personal care",
+  "listings": [
+   {
+    "title": "Diploma in Nail Technician",
+    "url": "https://iisdt.in/product/diploma-in-nail-technician/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-nail-technician/",
+   "code": "DNT/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to nail technology",
+    "Manicure and pedicure techniques",
+    "Nail art and design",
+    "Gel and acrylic nail extensions",
+    "Advanced nail enhancement techniques",
+    "Nail care products and chemistry"
+   ]
+  }
+ },
+ {
+  "id": "tailoring",
+  "title": "Tailoring & Garment Making",
+  "category": "Fashion, art & design",
+  "listings": [
+   {
+    "title": "Diploma in Tailoring",
+    "url": "https://iisdt.in/product/diploma-in-tailoring/"
+   },
+   {
+    "title": "Certificate in Self Employed Tailor",
+    "url": "https://iisdt.in/product/self-employed-tailor/"
+   },
+   {
+    "title": "Certificate in Sewing Machine Operator",
+    "url": "https://iisdt.in/product/sewing-machine-operator/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-tailoring/",
+   "code": "DIT/Q1001",
+   "duration": "Six Months",
+   "eligibility": "No formal qualification required",
+   "moduleHeadings": [
+    "Introduction to tailoring",
+    "Fabric knowledge and selection",
+    "Body measurements and pattern drafting",
+    "Garment construction techniques",
+    "Women wear construction",
+    "Men wear construction"
+   ]
+  }
+ },
+ {
+  "id": "fashion-design",
+  "title": "Fashion Designing & Pattern Making",
+  "category": "Fashion, art & design",
+  "listings": [
+   {
+    "title": "Certificate in Advanced Fashion Designing",
+    "url": "https://iisdt.in/product/certificate-in-advanced-fashion-designing/"
+   },
+   {
+    "title": "Diploma in Fashion Designer",
+    "url": "https://iisdt.in/product/fashion-designer/"
+   },
+   {
+    "title": "Diploma in Pattern Master",
+    "url": "https://iisdt.in/product/diploma-in-pattern-master/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-advanced-fashion-designing/",
+   "code": "CAFD/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Fundamentals of fashion designing",
+    "Textile science and fabric selection",
+    "Pattern making and draping techniques",
+    "Garment construction and sewing techniques",
+    "Fashion illustration and computer-aided design",
+    "Fashion merchandising and marketing"
+   ]
+  }
+ },
+ {
+  "id": "hand-embroidery",
+  "title": "Hand Embroidery",
+  "category": "Fashion, art & design",
+  "listings": [
+   {
+    "title": "Certificate in Hand Embroiderer",
+    "url": "https://iisdt.in/product/hand-embroiderer/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/hand-embroiderer/",
+   "code": "CHE/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to hand embroidery",
+    "Fabric selection and preparation",
+    "Basic embroidery stitches and techniques",
+    "Advanced embroidery techniques",
+    "Design development and pattern making",
+    "Colour combinations and embellishments"
+   ]
+  }
+ },
+ {
+  "id": "interior-design",
+  "title": "Interior Designing",
+  "category": "Fashion, art & design",
+  "listings": [
+   {
+    "title": "Diploma in Interior Designing",
+    "url": "https://iisdt.in/product/diploma-in-interior-designing/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-interior-designing/",
+   "code": "DID/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to interior design",
+    "Interior space planning and layouts",
+    "Furniture design and placement",
+    "Decorative arts and lighting",
+    "Digital tools and software for interior design",
+    "Sustainable and commercial interior design"
+   ]
+  }
+ },
+ {
+  "id": "drawing-painting",
+  "title": "Drawing, Painting, Art & Craft",
+  "category": "Fashion, art & design",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Drawing and Painting",
+    "url": "https://iisdt.in/product/advanced-diploma-in-drawing-and-painting/"
+   },
+   {
+    "title": "Certificate in Drawing & Painting Skills",
+    "url": "https://iisdt.in/product/certificate-in-drawing-painting-skills/"
+   },
+   {
+    "title": "Certificate in Art & Craft Skills",
+    "url": "https://iisdt.in/product/certificate-in-art-craft-skills/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-drawing-and-painting/",
+   "code": "ADD&P/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Foundations of drawing",
+    "Fundamentals of painting",
+    "Human figure and portrait drawing",
+    "Nature, landscape and outdoor painting",
+    "Modern art, abstract and mixed media",
+    "Art presentation and professional practices"
+   ]
+  }
+ },
+ {
+  "id": "carpentry-furniture",
+  "title": "Carpentry & Furniture Design",
+  "category": "Fashion, art & design",
+  "listings": [
+   {
+    "title": "Diploma in Carpenter & Furniture Design",
+    "url": "https://iisdt.in/product/diploma-in-carpenter-furniture-design/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-carpenter-furniture-design/",
+   "code": "DCFD/Q9703",
+   "duration": "Six Months",
+   "eligibility": "8th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to carpentry and furniture design",
+    "Woodworking materials and tools",
+    "Wood joinery techniques",
+    "Furniture design principles",
+    "Carpentry techniques and furniture construction",
+    "Surface finishing and wood coatings"
+   ]
+  }
+ },
+ {
+  "id": "astrology-jyotish",
+  "title": "Astrology & Jyotish Shastra",
+  "category": "Traditional & cultural studies",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Astrology",
+    "url": "https://iisdt.in/product/advanced-diploma-in-astrology/"
+   },
+   {
+    "title": "Diploma in Astrology",
+    "url": "https://iisdt.in/product/diploma-in-astrology/"
+   },
+   {
+    "title": "Advanced Diploma in Jyotish Shastra",
+    "url": "https://iisdt.in/product/advanced-diploma-in-jyotish-shastra/"
+   },
+   {
+    "title": "Diploma in Jyotish Shastra",
+    "url": "https://iisdt.in/product/diploma-in-jyotish-shastra/"
+   },
+   {
+    "title": "Advanced Diploma In Astrological Sciences",
+    "url": "https://iisdt.in/product/advanced-diploma-in-astrological-sciences/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-astrology/",
+   "code": "ADA/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Foundations of advanced astrology",
+    "Advanced natal chart interpretation",
+    "Predictive astrology and forecasting techniques",
+    "Relationship and synastry astrology",
+    "Horary and electional astrology",
+    "Research and case studies in astrology"
+   ]
+  }
+ },
+ {
+  "id": "vastu-feng-shui",
+  "title": "Vastu & Feng Shui",
+  "category": "Traditional & cultural studies",
+  "listings": [
+   {
+    "title": "Advanced Diploma in Vastu Shastra",
+    "url": "https://iisdt.in/product/advanced-diploma-in-vastu-shastra/"
+   },
+   {
+    "title": "Diploma in Vastu Shastra",
+    "url": "https://iisdt.in/product/diploma-in-vastu-shastra/"
+   },
+   {
+    "title": "Advanced Diploma in Vastu Science",
+    "url": "https://iisdt.in/product/advanced-diploma-in-vaastu-science/"
+   },
+   {
+    "title": "Diploma in Feng Shui",
+    "url": "https://iisdt.in/product/diploma-in-feng-shui/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-diploma-in-vastu-shastra/",
+   "code": "ADVS/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to Vastu Shastra",
+    "Residential, commercial and industrial Vastu",
+    "Vastu for temples and astrology connection",
+    "Vastu for apartments, high-rise buildings and interior design",
+    "Advanced energy science and modern architecture",
+    "Vastu remedies and corrections"
+   ]
+  }
+ },
+ {
+  "id": "tarot-reading",
+  "title": "Tarot Reading",
+  "category": "Traditional & cultural studies",
+  "listings": [
+   {
+    "title": "Diploma in Tarot Reading",
+    "url": "https://iisdt.in/product/diploma-in-tarot-reading/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-tarot-reading/",
+   "code": "DTR/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to tarot",
+    "Structure of the tarot deck",
+    "Major Arcana cards in detail",
+    "Minor Arcana suit of Cups",
+    "Minor Arcana suit of Pentacles",
+    "Minor Arcana suit of Swords"
+   ]
+  }
+ },
+ {
+  "id": "numerology",
+  "title": "Numerology",
+  "category": "Traditional & cultural studies",
+  "listings": [
+   {
+    "title": "Diploma in Numerology",
+    "url": "https://iisdt.in/product/diploma-in-numerology/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-numerology/",
+   "code": "DN/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to numerology and historical background",
+    "Core numbers and their interpretation",
+    "Advanced numerology calculations and techniques",
+    "Name numerology and compatibility",
+    "Numerology in daily life and remedies",
+    "Professional practice and case study analysis"
+   ]
+  }
+ },
+ {
+  "id": "palmistry",
+  "title": "Palmistry",
+  "category": "Traditional & cultural studies",
+  "listings": [
+   {
+    "title": "Diploma in Palmistry",
+    "url": "https://iisdt.in/product/diploma-in-palmistry/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-palmistry/",
+   "code": "DP/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to palmistry",
+    "Types and shapes of hands",
+    "Major lines of the palm",
+    "Minor lines and special signs",
+    "Practical palm reading skills",
+    "Advanced palmistry and career building"
+   ]
+  }
+ },
+ {
+  "id": "gems-crystals",
+  "title": "Gemstones & Crystals",
+  "category": "Traditional & cultural studies",
+  "listings": [
+   {
+    "title": "Diploma in Gems & Crystals",
+    "url": "https://iisdt.in/product/diploma-in-gems-crystals/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-gems-crystals/",
+   "code": "DGC/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to gemology and crystal science",
+    "Gem identification techniques",
+    "Crystal healing and metaphysical properties",
+    "Cutting, polishing and gemstone processing",
+    "Jewelry design and setting techniques",
+    "Gemstone business, valuation and certification"
+   ]
+  }
+ },
+ {
+  "id": "vedic-culture",
+  "title": "Vedic Sciences, Indian Culture & Philosophy",
+  "category": "Traditional & cultural studies",
+  "listings": [
+   {
+    "title": "Diploma in Vedic Sciences",
+    "url": "https://iisdt.in/product/diploma-in-vedic-sciences/"
+   },
+   {
+    "title": "Diploma in Indian Culture & Philosophy",
+    "url": "https://iisdt.in/product/diploma-in-indian-culture-philosophy/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-vedic-sciences/",
+   "code": "DIVS/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to Vedic literature",
+    "Vedic philosophy",
+    "Vedic mathematics",
+    "Vedic astrology (Jyotish)",
+    "Vedic rituals and yajnas",
+    "Ayurveda basics"
+   ]
+  }
+ },
+ {
+  "id": "paurohitya",
+  "title": "Paurohitya (Ritual Practice)",
+  "category": "Traditional & cultural studies",
+  "listings": [
+   {
+    "title": "Certificate in Paurohitya",
+    "url": "https://iisdt.in/product/certificate-in-paurohitya/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-paurohitya/",
+   "code": "CIP/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to Paurohitya and Vedic traditions",
+    "Vedic chanting and mantra recitation",
+    "Hindu rituals and ceremonies",
+    "Yajnas and homa rituals",
+    "Astrology and muhurta selection",
+    "Temple rituals and pujas"
+   ]
+  }
+ },
+ {
+  "id": "fire-technician",
+  "title": "Fire Technician & Fire Service Skills",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Certificate in Fireman Technician",
+    "url": "https://iisdt.in/product/certificate-in-fireman/"
+   },
+   {
+    "title": "Certificate in Fire Technician",
+    "url": "https://iisdt.in/product/certificate-in-fire-technician/"
+   },
+   {
+    "title": "Certificate in Fire Service Technician",
+    "url": "https://iisdt.in/product/certificate-in-fire-service-technician/"
+   },
+   {
+    "title": "Certificate in Fire Sub Officer Management",
+    "url": "https://iisdt.in/product/certificate-in-fire-sub-officer/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-fireman/",
+   "code": "CIF/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to fire science",
+    "Fire prevention and safety measures",
+    "Firefighting equipment and tools",
+    "Firefighting tactics and strategies",
+    "Emergency medical response and first aid",
+    "Disaster management and response"
+   ]
+  }
+ },
+ {
+  "id": "fire-safety-management",
+  "title": "Fire Safety Management",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Certificate in Fire & Safety Management",
+    "url": "https://iisdt.in/product/certificate-in-fire-safety-management/"
+   },
+   {
+    "title": "Certificate in Fire and Safety Management",
+    "url": "https://iisdt.in/product/certificate-in-fire-and-safety-management/"
+   },
+   {
+    "title": "Fire Safety & Emergency Response Training",
+    "url": "https://iisdt.in/product/certificate-in-fire-and-safety/"
+   },
+   {
+    "title": "Certificate in Fire Safety & Fire Prevention",
+    "url": "https://iisdt.in/product/certificate-in-fire-safety-fire-prevention/"
+   },
+   {
+    "title": "Certificate in fire safety and hazard management",
+    "url": "https://iisdt.in/product/certificate-in-fire-safety-and-hazard-management/"
+   },
+   {
+    "title": "Certificate in Fire Safety and Hazards Management",
+    "url": "https://iisdt.in/product/certificate-in-fire-safety-and-hazards-management/"
+   },
+   {
+    "title": "Certificate in Fire & Industrial Safety Management",
+    "url": "https://iisdt.in/product/certificate-in-fire-industrial-safety-management/"
+   },
+   {
+    "title": "Advanced Certificate in Fire & Safety Management",
+    "url": "https://iisdt.in/product/advanced-certificate-in-fire-engineering-safety-management/"
+   },
+   {
+    "title": "Advanced Certificate in Fire & Industrial Safety Management",
+    "url": "https://iisdt.in/product/advanced-certificate-in-fire-industrial-safety-management/"
+   },
+   {
+    "title": "Advanced Certificate in Fire Safety and Hazards Management",
+    "url": "https://iisdt.in/product/advanced-certificate-in-fire-safety-and-hazards-management/"
+   },
+   {
+    "title": "Advanced Certificate in Fire Safety Management",
+    "url": "https://iisdt.in/product/advanced-certificate-in-safety-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-fire-safety-management/",
+   "code": "CFSM/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to fire and safety management",
+    "Fire protection systems and equipment",
+    "Fire risk assessment and hazard control",
+    "Firefighting techniques and emergency response",
+    "Environmental and chemical safety in fire management",
+    "First aid and medical response in fire incidents"
+   ]
+  }
+ },
+ {
+  "id": "industrial-safety",
+  "title": "Industrial Safety & Hazard Management",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Certificate in Industrial Safety",
+    "url": "https://iisdt.in/product/certificate-in-industrial-safety/"
+   },
+   {
+    "title": "Certificate in Industrial Safety & Hazard Management",
+    "url": "https://iisdt.in/product/certificate-in-industrial-safety-hazard-management/"
+   },
+   {
+    "title": "Certificate in Industrial Hazards & Safety Management",
+    "url": "https://iisdt.in/product/certificate-in-industrial-hazards-safety-management/"
+   },
+   {
+    "title": "Advanced Certification in Industrial Hazard Prevention",
+    "url": "https://iisdt.in/product/advanced-certification-in-industrial-hazard-prevention/"
+   },
+   {
+    "title": "Diploma in Industrial Safety & Preventive Maintenance",
+    "url": "https://iisdt.in/product/diploma-in-industrial-safety/"
+   },
+   {
+    "title": "Certificate in Industrial Safety & Disaster Management",
+    "url": "https://iisdt.in/product/certificate-in-industrial-safety-disaster-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-industrial-safety/",
+   "code": "CIS/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to industrial safety",
+    "Fire prevention and occupational health safety management",
+    "Electrical and mechanical safety",
+    "Chemical and hazardous material safety",
+    "Construction and workplace safety",
+    "Emergency preparedness and legal and regulatory compliance"
+   ]
+  }
+ },
+ {
+  "id": "health-safety-environment",
+  "title": "Health, Safety & Environment (HSE)",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Certificate in Health Safety & Environment",
+    "url": "https://iisdt.in/product/certificate-in-health-safety-environment/"
+   },
+   {
+    "title": "Diploma in Health Safety & Environment",
+    "url": "https://iisdt.in/product/diploma-in-health-safety-environment/"
+   },
+   {
+    "title": "Diploma in Health Safety & Environment Management",
+    "url": "https://iisdt.in/product/diploma-in-health-safety-environment-management/"
+   },
+   {
+    "title": "Diploma in Health Environment & Safety Management",
+    "url": "https://iisdt.in/product/diploma-in-health-environment-safety-engineering/"
+   },
+   {
+    "title": "Advanced Certificate in Occupational Safety, Health and Environment Management",
+    "url": "https://iisdt.in/product/advanced-certificate-in-occupational-safety-health-and-environment-management/"
+   },
+   {
+    "title": "Certificate in Health Safety at Workplace",
+    "url": "https://iisdt.in/product/certificate-in-health-safety-at-workplace/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-health-safety-environment/",
+   "code": "CHSE/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to health, safety and environment",
+    "Occupational health and hygiene",
+    "Safety management systems",
+    "Fire and electrical safety",
+    "Construction and industrial safety",
+    "Environmental management"
+   ]
+  }
+ },
+ {
+  "id": "environmental-safety",
+  "title": "Environmental Safety Management",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Diploma in Environmental Safety",
+    "url": "https://iisdt.in/product/diploma-in-environmental-safety/"
+   },
+   {
+    "title": "Diploma in Environment Safety Management",
+    "url": "https://iisdt.in/product/diploma-in-environment-safety-management/"
+   },
+   {
+    "title": "Advanced Certificate in Industrial Environment Safety",
+    "url": "https://iisdt.in/product/advanced-certificate-in-industrial-environment-safety/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-environmental-safety/",
+   "code": "DES/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to environmental safety",
+    "Environmental risk assessment and management",
+    "Pollution control and waste management",
+    "Water and wastewater management",
+    "Air quality management and control",
+    "Soil and land pollution management"
+   ]
+  }
+ },
+ {
+  "id": "construction-safety",
+  "title": "Construction Safety & Health",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Diploma in Construction Safety Management",
+    "url": "https://iisdt.in/product/diploma-in-construction-safety/"
+   },
+   {
+    "title": "Diploma in Construction Safety and Health Management",
+    "url": "https://iisdt.in/product/diploma-in-construction-safety-and-health/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-construction-safety/",
+   "code": "DCSM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to construction safety management",
+    "Risk assessment and hazard identification",
+    "Construction site safety management",
+    "Safety in materials handling and storage",
+    "PPE and worker safety",
+    "Construction safety laws and regulations"
+   ]
+  }
+ },
+ {
+  "id": "construction-supervision",
+  "title": "Construction Supervision",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Diploma in Construction Supervisor",
+    "url": "https://iisdt.in/product/diploma-in-construction-supervisor/"
+   },
+   {
+    "title": "Diploma in Civil Construction Supervisor",
+    "url": "https://iisdt.in/product/diploma-in-civil-construction-supervisor/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-construction-supervisor/",
+   "code": "DCS/Q0001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to construction supervision",
+    "Building materials and construction techniques",
+    "Construction safety and site supervision",
+    "Construction drawings and equipment",
+    "Structural engineering and project planning",
+    "Quality control, inspection and cost estimation"
+   ]
+  }
+ },
+ {
+  "id": "electrical-safety",
+  "title": "Electrical Safety",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Diploma in Electrical Safety",
+    "url": "https://iisdt.in/product/diploma-in-electrical-safety/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-electrical-safety/",
+   "code": "DES/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Fundamentals of electrical safety",
+    "Electrical hazards and risk assessment",
+    "Electrical installations and safe work practices",
+    "Fire and explosion hazards in electrical systems",
+    "Electrical shock prevention and first aid",
+    "Safety in electrical maintenance and testing"
+   ]
+  }
+ },
+ {
+  "id": "disaster-management",
+  "title": "Disaster Management",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Diploma in Disaster Management",
+    "url": "https://iisdt.in/product/diploma-in-disaster-management/"
+   },
+   {
+    "title": "Certificate in Disaster Management",
+    "url": "https://iisdt.in/product/certificate-in-disaster-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-disaster-management/",
+   "code": "DDM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to disaster management",
+    "Natural and man-made disasters",
+    "Disaster risk assessment and emergency response",
+    "Medical and psychological aspects of disaster management",
+    "Climate change and environmental hazards",
+    "Post-disaster recovery and rehabilitation"
+   ]
+  }
+ },
+ {
+  "id": "food-quality",
+  "title": "Food Quality Control & Inspection",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Certificate in Food Quality Control & Inspection",
+    "url": "https://iisdt.in/product/certificate-in-food-quality-control-inspection/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-food-quality-control-inspection/",
+   "code": "CFQCI/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to food safety",
+    "Microbiology and foodborne pathogens",
+    "Food hygiene and sanitation practices",
+    "Food safety management systems",
+    "Food processing and preservation techniques",
+    "Foodborne disease prevention and public health"
+   ]
+  }
+ },
+ {
+  "id": "security-services",
+  "title": "Security Services & Crisis Management",
+  "category": "Safety, fire & environment",
+  "listings": [
+   {
+    "title": "Diploma in Security Officer Skills and Crisis Management",
+    "url": "https://iisdt.in/product/diploma-in-security-officer-skills-and-crisis-management/"
+   },
+   {
+    "title": "Diploma in Security Supervisor",
+    "url": "https://iisdt.in/product/diploma-in-security-supervisor/"
+   },
+   {
+    "title": "Advanced Diploma in Security Services Management",
+    "url": "https://iisdt.in/product/advanced-diploma-in-security-services-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/diploma-in-security-officer-skills-and-crisis-management/",
+   "code": "SSOSCM/Q1001",
+   "duration": "Six Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to security services",
+    "Surveillance and risk assessment",
+    "Crisis and emergency management",
+    "Legal framework and security laws",
+    "Soft skills and professional communication",
+    "Practical training and scenario-based learning"
+   ]
+  }
+ },
+ {
+  "id": "electrician",
+  "title": "Electrician Technician",
+  "category": "Technical trades",
+  "listings": [
+   {
+    "title": "Electrician Technician Program",
+    "url": "https://iisdt.in/product/electrician-technician-program/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/electrician-technician-program/",
+   "code": "ETP/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Basics of electrical engineering",
+    "Electrical wiring and installation",
+    "Electrical machines and transformers",
+    "Electrical measurements and instrumentation",
+    "Power systems and electrical panels",
+    "Renewable energy and practical applications"
+   ]
+  }
+ },
+ {
+  "id": "hvac-technician",
+  "title": "HVAC Technician",
+  "category": "Technical trades",
+  "listings": [
+   {
+    "title": "Certificate in HVAC Technician",
+    "url": "https://iisdt.in/product/certificate-in-hvac-technician/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-hvac-technician/",
+   "code": "CHVACT/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to HVAC systems",
+    "Refrigeration systems and components",
+    "Heating systems and components",
+    "Ventilation and air distribution",
+    "Air conditioning systems and components",
+    "Electrical and control systems in HVAC"
+   ]
+  }
+ },
+ {
+  "id": "solar-installation",
+  "title": "Solar Panel Installation Technician",
+  "category": "Technical trades",
+  "listings": [
+   {
+    "title": "Certificate in Solar Panel Installation Technician",
+    "url": "https://iisdt.in/product/certificate-in-solar-panel-installation-technician/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-solar-panel-installation-technician/",
+   "code": "CSPIT/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to solar energy and photovoltaic systems",
+    "Electrical fundamentals for solar installation",
+    "Solar panel system components and selection",
+    "Solar panel installation process",
+    "Solar power system design and sizing",
+    "Grid-connected and off-grid solar systems"
+   ]
+  }
+ },
+ {
+  "id": "gardening-nursery",
+  "title": "Gardening & Plant Nursery Management",
+  "category": "Agriculture & home science",
+  "listings": [
+   {
+    "title": "Certificate in Gardening Skills",
+    "url": "https://iisdt.in/product/certificate-in-gardening-skills/"
+   },
+   {
+    "title": "Certificate in Plant Nursery Management",
+    "url": "https://iisdt.in/product/certificate-in-plant-nursery-management/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-gardening-skills/",
+   "code": "CGS/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to gardening",
+    "Soil and fertility management",
+    "Plant propagation techniques",
+    "Water management in gardening",
+    "Plant nutrition and growth",
+    "Pest and disease management"
+   ]
+  }
+ },
+ {
+  "id": "irrigation",
+  "title": "Drip & Sprinkler Irrigation Technology",
+  "category": "Agriculture & home science",
+  "listings": [
+   {
+    "title": "Certificate in Drip & Sprinkler Irrigation Technology",
+    "url": "https://iisdt.in/product/certificate-in-drip-sprinkler-irrigation-technology/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/certificate-in-drip-sprinkler-irrigation-technology/",
+   "code": "CDSIT/Q0001",
+   "duration": "Three Months",
+   "eligibility": "10th Grade or equivalent",
+   "moduleHeadings": [
+    "Introduction to irrigation and water management",
+    "Basics of drip irrigation system",
+    "Basics of sprinkler irrigation system",
+    "Design and installation of irrigation systems",
+    "Operation, maintenance and troubleshooting",
+    "Government policies, subsidies and entrepreneurship in irrigation"
+   ]
+  }
+ },
+ {
+  "id": "organic-agriculture",
+  "title": "Organic Agriculture",
+  "category": "Agriculture & home science",
+  "listings": [
+   {
+    "title": "Advanced Certificate in Organic Agriculture",
+    "url": "https://iisdt.in/product/advanced-certificate-in-organic-agriculture/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-certificate-in-organic-agriculture/",
+   "code": "ACOA/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to organic agriculture",
+    "Soil health and fertility management",
+    "Organic crop production techniques",
+    "Organic livestock management",
+    "Agro-ecology and sustainable farming systems",
+    "Organic farm management and economics"
+   ]
+  }
+ },
+ {
+  "id": "home-science",
+  "title": "Home Science",
+  "category": "Agriculture & home science",
+  "listings": [
+   {
+    "title": "Advanced Certificate in Home Science",
+    "url": "https://iisdt.in/product/advanced-certificate-in-home-science/"
+   }
+  ],
+  "reference": {
+   "url": "https://iisdt.in/product/advanced-certificate-in-home-science/",
+   "code": "ADHS/Q1001",
+   "duration": "Three Months",
+   "eligibility": "10+2 or equivalent",
+   "moduleHeadings": [
+    "Introduction to home science",
+    "Human development and family studies",
+    "Food and nutrition",
+    "Textiles and clothing",
+    "Home management and interior decoration",
+    "Resource management and consumer education"
+   ]
+  }
+ }
+]

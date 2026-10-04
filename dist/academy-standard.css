@@ -18,3 +18,4 @@
 
 .tool-icon{display:inline-block;vertical-align:-.2em;flex-shrink:0;color:currentColor}.tool-with-icon{display:inline;white-space:nowrap}.tool-with-icon>.tool-icon{margin-right:.35em}.tool-chip,.workspace-tabs a{display:inline-flex;align-items:center;gap:8px}.vendor-mark{display:flex;align-items:center;justify-content:center}.vendor-mark>.tool-icon{width:25px;height:25px}.tool-chip [data-tool-label]{white-space:nowrap}
 @media(max-width:600px){.vendor-actions{flex-wrap:wrap;max-width:calc(100% - 58px);min-width:0}.vendor-actions .btn{max-width:100%;white-space:normal}}
+.course-intro>.course-notice{font-size:15px;color:var(--ink,#0f1714);border-left:3px solid #c9260e;padding:6px 0 6px 14px;margin:14px 0 0}.course-intro>.small.muted{margin:10px 0 0}
