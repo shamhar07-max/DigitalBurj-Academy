@@ -9,6 +9,7 @@ import {claimLaunchAccount} from './operations.mjs';
 import C from '../content/curriculum.json';
 import mentorship from '../content/mentorship.json';
 import atlas from '../content/atlas.json';
+import defaultOffers from '../content/default-offers.json';
 import assets from '../.generated/assets.mjs';
 const api=createAPI(C,atlas),accounts=createAuth(C),academy=createAcademy(atlas,C);
 const jsonError=(message,status)=>Response.json({error:message},{status,headers:{'cache-control':'private, no-store'}});
@@ -17,7 +18,9 @@ const accountPages=new Set(['/sign-in','/register','/forgot-password','/reset-pa
 const publicScripts=new Set(['/accounts.js','/academy-shell.js','/verify.js','/access.js','/tool-icons.js','/runtime.js']);
 const securityHeaders={'x-content-type-options':'nosniff','referrer-policy':'same-origin','permissions-policy':'camera=(), microphone=(self), geolocation=()','content-security-policy':"default-src 'self'; script-src 'self' 'unsafe-inline' https://js.stripe.com https://checkout.razorpay.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://api.stripe.com https://r.stripe.com https://m.stripe.network https://api.razorpay.com https://checkout.razorpay.com https://lumberjack.razorpay.com; frame-src 'self' blob: https://js.stripe.com https://hooks.stripe.com https://api.razorpay.com https://checkout.razorpay.com; media-src 'self' https://sider-pub.s3.amazonaws.com; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"};
 async function assetResponse(route,r,env){const a=assets[route];if(!a)return new Response('Not found',{status:404,headers:{'cache-control':'no-store'}});if(env.ASSETS){const response=await env.ASSETS.fetch(new Request(new URL(route,r.url),{method:r.method}));const h=new Headers(response.headers);for(const [key,value]of Object.entries(securityHeaders))h.set(key,value);h.set('content-type',a.type);h.set('cache-control','private, no-store');return new Response(r.method==='HEAD'?null:response.body,{status:response.status,headers:h})}return new Response(r.method==='HEAD'?null:Uint8Array.from(atob(a.body),c=>c.charCodeAt(0)),{headers:{...securityHeaders,'content-type':a.type,'cache-control':'private, no-store'}})}
+const defaultOfferJson=JSON.stringify(defaultOffers);
 export default {async fetch(input,env){
+ env={...env,ACADEMY_DEFAULT_OFFERS:defaultOfferJson};
  const headers=new Headers(input.headers);
  // Only the native Sites ingress may supply platform identity. Other
  // deployments must resolve their encrypted, provider-verified session.

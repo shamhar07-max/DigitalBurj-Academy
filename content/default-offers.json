@@ -1,0 +1,1889 @@
+[
+ {
+  "id": "computer-applications-course",
+  "title": "Computer Applications course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "computer-applications"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "computer-basics-course",
+  "title": "Computer Concepts & Office Automation course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "computer-basics"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "office-suite-course",
+  "title": "MS Office & Advanced Excel course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "office-suite"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "data-entry-typing-course",
+  "title": "Data Entry & Typing course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "data-entry-typing"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "tally-erp-course",
+  "title": "Tally & Computerised Accounting course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "tally-erp"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "graphic-dtp-course",
+  "title": "Graphic Design & Desktop Publishing course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "graphic-dtp"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "animation-multimedia-course",
+  "title": "Animation, VFX & Multimedia course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "animation-multimedia"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "autocad-course",
+  "title": "AutoCAD Drafting course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "autocad"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "hardware-networking-course",
+  "title": "Computer Hardware, Repair & Networking course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "hardware-networking"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "mobile-repair-course",
+  "title": "Mobile Phone Repair Technician course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "mobile-repair"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "c-cpp-programming-course",
+  "title": "C & C++ Programming course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "c-cpp-programming"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "server-web-programming-course",
+  "title": "PHP & ASP.NET Web Programming course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "server-web-programming"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "software-development-course",
+  "title": "Software & Web Application Development course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "software-development"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "ai-machine-learning-course",
+  "title": "AI & Machine Learning course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "ai-machine-learning"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "data-science-course",
+  "title": "Data Science course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "data-science"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "digital-marketing-seo-course",
+  "title": "Digital Marketing & SEO course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "digital-marketing-seo"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "computer-trainer-course",
+  "title": "Computer & IT Trainer Skills course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "computer-trainer"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "office-it-support-course",
+  "title": "Office IT & Tech Support course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "office-it-support"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "cctv-installation-course",
+  "title": "CCTV Installation Technician course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "cctv-installation"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "mis-technology-operations-course",
+  "title": "Management Information Systems & Technology Operations course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "mis-technology-operations"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "financial-accounting-course",
+  "title": "Financial Accounting & Accounts Executive course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "financial-accounting"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "gst-taxation-course",
+  "title": "GST, Accounting & Taxation course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "gst-taxation"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "financial-management-course",
+  "title": "Financial Management & Reporting course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "financial-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "financial-planning-course",
+  "title": "Financial Planning & Investment course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "financial-planning"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "stock-market-course",
+  "title": "Stock Market & Capital Markets course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "stock-market"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "banking-lending-course",
+  "title": "Banking, Mutual Funds & Loan Processing course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "banking-lending"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "insurance-advisory-course",
+  "title": "Insurance Advisory & Health Insurance course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "insurance-advisory"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "international-economy-course",
+  "title": "International Economy & Finance course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "international-economy"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "quantitative-techniques-course",
+  "title": "Quantitative Techniques in Business course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "quantitative-techniques"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "human-resource-management-course",
+  "title": "Human Resource Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "human-resource-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "sales-marketing-management-course",
+  "title": "Sales & Marketing Management course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "sales-marketing-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "brand-product-management-course",
+  "title": "Brand & Product Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "brand-product-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "business-strategy-course",
+  "title": "Business Strategy, Corporate & Cooperative Management course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "business-strategy"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "project-quality-management-course",
+  "title": "Project Management & Six Sigma course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "project-quality-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "entrepreneurship-course",
+  "title": "Entrepreneurship Development course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "entrepreneurship"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "business-communication-course",
+  "title": "Business Communication & Personality Development course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "business-communication"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "english-language-course",
+  "title": "English Language & Proficiency course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "english-language"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "customer-relationship-course",
+  "title": "Customer Relationship Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "customer-relationship"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "office-administration-course",
+  "title": "Office Administration & Front Desk course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "office-administration"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "supply-chain-logistics-course",
+  "title": "Supply Chain & Logistics Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "supply-chain-logistics"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "courier-delivery-course",
+  "title": "Courier & Delivery Operations course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "courier-delivery"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "inventory-warehouse-course",
+  "title": "Inventory & Warehouse Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "inventory-warehouse"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "cold-storage-course",
+  "title": "Cold Storage Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "cold-storage"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "export-import-course",
+  "title": "Export-Import Management course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "export-import"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "retail-vehicle-sales-course",
+  "title": "Retail Management & Vehicle Sales course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "retail-vehicle-sales"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "healthcare-administration-course",
+  "title": "Healthcare & Hospital Administration course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "healthcare-administration"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "company-law-course",
+  "title": "Industrial & Company Law course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "company-law"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "intellectual-property-course",
+  "title": "Intellectual Property Rights course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "intellectual-property"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "human-rights-course",
+  "title": "Human Rights course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "human-rights"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "public-administration-course",
+  "title": "Public Administration & Indian Political System course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "public-administration"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "social-work-course",
+  "title": "Social Work & Development course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "social-work"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "esg-sustainability-course",
+  "title": "Environmental, Social & Governance (ESG) course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "esg-sustainability"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "health-family-welfare-course",
+  "title": "Health, Family Welfare & Population Education course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "health-family-welfare"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "hotel-management-course",
+  "title": "Hotel & Resort Management course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "hotel-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "housekeeping-course",
+  "title": "Housekeeping Management course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "housekeeping"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "travel-tourism-course",
+  "title": "Travel, Tourism & Travel Agency Management course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "travel-tourism"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "event-wedding-course",
+  "title": "Event & Wedding Management course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "event-wedding"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "cooking-baking-course",
+  "title": "Cooking & Baking course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "cooking-baking"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "temple-management-course",
+  "title": "Temple Management course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "temple-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "montessori-course",
+  "title": "Montessori Education course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "montessori"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "nursery-preprimary-course",
+  "title": "Nursery & Pre-Primary Teacher Training course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "nursery-preprimary"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "early-childhood-care-course",
+  "title": "Early Childhood Care & Development course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "early-childhood-care"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "teaching-methods-course",
+  "title": "Primary Education & Teaching Methods course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "teaching-methods"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "school-management-course",
+  "title": "School Management course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "school-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "counselling-course",
+  "title": "Career, Education & Applied Counselling course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "counselling"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "library-science-course",
+  "title": "Library Science course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "library-science"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "sports-physical-education-course",
+  "title": "Sports Coaching & Physical Education course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "sports-physical-education"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "fitness-training-course",
+  "title": "Fitness, Personal Training & Bodybuilding course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "fitness-training"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "weight-management-course",
+  "title": "Obesity & Weight Management course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "weight-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "yoga-foundations-course",
+  "title": "Yoga Foundations course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "yoga-foundations"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "yoga-instruction-course",
+  "title": "Yoga Education & Instruction course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "yoga-instruction"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "yoga-science-course",
+  "title": "Yoga Science & Advanced Practice course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "yoga-science"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "yoga-therapy-course",
+  "title": "Yoga Therapy & Nature Care course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "yoga-therapy"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "meditation-course",
+  "title": "Meditation & Mindfulness course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "meditation"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "massage-spa-course",
+  "title": "Relaxation Massage & Spa Therapy course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "massage-spa"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "beauty-care-course",
+  "title": "Beauty Care & Wellness course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "beauty-care"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "makeup-artistry-course",
+  "title": "Makeup Artistry & Bridal Styling course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "makeup-artistry"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "hair-salon-course",
+  "title": "Hair Styling, Barbering & Salon Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "hair-salon"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "nail-technician-course",
+  "title": "Nail Technician course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "nail-technician"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "tailoring-course",
+  "title": "Tailoring & Garment Making course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "tailoring"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "fashion-design-course",
+  "title": "Fashion Designing & Pattern Making course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "fashion-design"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "hand-embroidery-course",
+  "title": "Hand Embroidery course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "hand-embroidery"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "interior-design-course",
+  "title": "Interior Designing course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "interior-design"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "drawing-painting-course",
+  "title": "Drawing, Painting, Art & Craft course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "drawing-painting"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "carpentry-furniture-course",
+  "title": "Carpentry & Furniture Design course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "carpentry-furniture"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "astrology-jyotish-course",
+  "title": "Astrology & Jyotish Shastra course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "astrology-jyotish"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "vastu-feng-shui-course",
+  "title": "Vastu & Feng Shui course",
+  "status": "Draft",
+  "amount": 89900,
+  "currency": "inr",
+  "courseIds": [
+   "vastu-feng-shui"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "tarot-reading-course",
+  "title": "Tarot Reading course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "tarot-reading"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "numerology-course",
+  "title": "Numerology course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "numerology"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "palmistry-course",
+  "title": "Palmistry course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "palmistry"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "gems-crystals-course",
+  "title": "Gemstones & Crystals course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "gems-crystals"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "vedic-culture-course",
+  "title": "Vedic Sciences, Indian Culture & Philosophy course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "vedic-culture"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "paurohitya-course",
+  "title": "Paurohitya (Ritual Practice) course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "paurohitya"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "fire-technician-course",
+  "title": "Fire Technician & Fire Service Skills course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "fire-technician"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "fire-safety-management-course",
+  "title": "Fire Safety Management course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "fire-safety-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "industrial-safety-course",
+  "title": "Industrial Safety & Hazard Management course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "industrial-safety"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "health-safety-environment-course",
+  "title": "Health, Safety & Environment (HSE) course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "health-safety-environment"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "environmental-safety-course",
+  "title": "Environmental Safety Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "environmental-safety"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "construction-safety-course",
+  "title": "Construction Safety & Health course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "construction-safety"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "construction-supervision-course",
+  "title": "Construction Supervision course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "construction-supervision"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "electrical-safety-course",
+  "title": "Electrical Safety course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "electrical-safety"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "disaster-management-course",
+  "title": "Disaster Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "disaster-management"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "food-quality-course",
+  "title": "Food Quality Control & Inspection course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "food-quality"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "security-services-course",
+  "title": "Security Services & Crisis Management course",
+  "status": "Draft",
+  "amount": 69900,
+  "currency": "inr",
+  "courseIds": [
+   "security-services"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "electrician-course",
+  "title": "Electrician Technician course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "electrician"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "hvac-technician-course",
+  "title": "HVAC Technician course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "hvac-technician"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "solar-installation-course",
+  "title": "Solar Panel Installation Technician course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "solar-installation"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "gardening-nursery-course",
+  "title": "Gardening & Plant Nursery Management course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "gardening-nursery"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "irrigation-course",
+  "title": "Drip & Sprinkler Irrigation Technology course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "irrigation"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "organic-agriculture-course",
+  "title": "Organic Agriculture course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "organic-agriculture"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ },
+ {
+  "id": "home-science-course",
+  "title": "Home Science course",
+  "status": "Draft",
+  "amount": 44900,
+  "currency": "inr",
+  "courseIds": [
+   "home-science"
+  ],
+  "durationDays": 365,
+  "providers": [
+   "razorpay"
+  ],
+  "termsUrl": "https://academy.digitalburj.com/terms",
+  "refundPolicy": "Owner to confirm the refund policy before this offer is approved.",
+  "reviewApproval": ""
+ }
+]

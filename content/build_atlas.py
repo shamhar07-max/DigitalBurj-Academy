@@ -126,6 +126,9 @@ a={'version':'5.0','levels':LEVELS,'tracks':tracks,'glossary':[{'term':a,'defini
 meta={**a,'tracks':[{k:v for k,v in t.items() if k!='missions'}|{'missionCount':len(t['missions']),'outline':[{'id':m['id'],'title':m['title'],'level':m['level'],'minutes':m['minutes']} for m in t['missions']]} for t in tracks]}
 (ROOT/'dist/catalogue.json').write_text(json.dumps(meta,separators=(',',':')))
 (ROOT/'content/source/iisdt-syllabi.json').write_text(json.dumps(SUBJECT['provenance'],indent=1,ensure_ascii=False)+'\n')
+def offer_price(p):return 44900 if p['reference']['duration'].split()[0] in('One','Two','Three') else 89900 if 'advanced' in p['reference']['url'] else 69900
+offers=[{'id':p['id']+'-course','title':p['title']+' course','status':'Draft','amount':offer_price(p),'currency':'inr','courseIds':[p['id']],'durationDays':365,'providers':['razorpay'],'termsUrl':'https://academy.digitalburj.com/terms','refundPolicy':'Owner to confirm the refund policy before this offer is approved.','reviewApproval':''} for p in SUBJECT['provenance']]
+(ROOT/'content/default-offers.json').write_text(json.dumps(offers,indent=1)+'\n')
 count=len(tracks); projects=count*10; subject=len(SUBJECT['category'])
 doc=[f"# Curriculum map\n\n{count} courses, five named modules per course and {projects} authored project recipes. Every recipe follows Understand → Explain → Build → Test & fix → Reflect → Submit. Practice times are estimates; independent subject approval is required for assessed delivery.\n\nThe original 48 programmes and 192 missions are preserved and mapped to course access. {subject} subject-area courses merge near-duplicate programme variants into one course each and are standalone: they have no mapped professional programme and use fictional practice cases only. Their alignment records are in content/source/iisdt-syllabi.json.\n"]
 for t in tracks:
