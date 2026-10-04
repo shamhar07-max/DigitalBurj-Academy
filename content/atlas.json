@@ -13312,7 +13312,9 @@
       ],
       "minutes": 620,
       "outcome": "Hand over a small office system",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Computer Application(DCA)",
         "Advanced Diploma in Computer Applications (ADCA)",
@@ -14020,7 +14022,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a personal digital skills file",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Computer Concept (CCC)",
         "Certificate in Computer Fundamental",
@@ -14724,7 +14728,9 @@
       ],
       "minutes": 620,
       "outcome": "Hand over a reporting workbook",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in M.S. Office",
         "Certificate\u00a0in Advanced Excel"
@@ -15416,7 +15422,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a verified data entry batch",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Data Entry Operator (DEO)",
         "Certificate in Steno English Typing",
@@ -16120,7 +16128,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a month-end close pack",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Tally ERP 9.0"
       ]
@@ -16833,7 +16843,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a client-ready design package",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Graphic Designing",
         "Certificate in Desk Top Publishing (DTP)"
@@ -17547,7 +17559,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a short multimedia project with a showreel",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in 2D/3D Animation",
         "Certificate in VFX Video Editing",
@@ -18240,7 +18254,9 @@
       ],
       "minutes": 620,
       "outcome": "Produce a checked drawing set",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Autocad"
       ]
@@ -18931,7 +18947,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a supportable network handover",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Computer Hardware and Networking",
         "Certificate in Advanced Networking",
@@ -19624,7 +19642,9 @@
       ],
       "minutes": 620,
       "outcome": "Run a repair service with quality and aftercare",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Mobile Phone Repairing",
         "Certificate in Mobile Repairing",
@@ -20328,7 +20348,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a tested menu-driven program",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in C Programming",
         "Certificate in C++",
@@ -21043,7 +21065,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a tested web application plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in PHP",
         "Certificate in ASP.NET Programming"
@@ -21757,7 +21781,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a full-stack project",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Software Development",
         "Advanced Diploma in Software & Web Application Development"
@@ -22471,7 +22497,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a machine learning project report",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in AI and Machine Learning",
         "Professional Diploma in Information Technology and AI"
@@ -23174,7 +23202,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a reproducible analysis",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Data Science"
       ]
@@ -23887,7 +23917,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a measured campaign plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in SEO",
         "Diploma in Digital Marketing",
@@ -24591,7 +24623,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a taught session and reflect on it",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Computer Trainer Proficiency Diploma",
         "Diploma in Computer Education & Training Skills",
@@ -25298,7 +25332,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a support runbook",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Professional Diploma in Office IT and Tech Support"
       ]
@@ -25989,7 +26025,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a small shop CCTV design",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in CCTV Installation Technician"
       ]
@@ -26691,7 +26729,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver an information system proposal",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Management Information System",
         "Professional Diploma in Technology and Operations Management"
@@ -27394,7 +27434,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a year-end accounts and controls pack",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Accounts",
         "Certificate in Financial Accounting",
@@ -28102,7 +28144,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a monthly compliance file",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Goods & Services Tax (GST)",
         "Diploma in Accounting & Taxation",
@@ -28807,7 +28851,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver an investment recommendation",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Financial Management",
         "Advanced Diploma in Finance Management",
@@ -29512,7 +29558,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a suitable plan with honest limits",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Financial Planning",
         "Diploma in Investment Planning and Management",
@@ -30217,7 +30265,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a risk-aware investment study",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Stock Broker",
         "Certificate in Capital Markets",
@@ -30922,7 +30972,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a loan decision memo with compliance checks",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Banking and Mutual Fund",
         "Advanced Diploma in Banking Sales Representative",
@@ -31627,7 +31679,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a complete advice file",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Life Insurance Advisor",
         "Diploma in Health Economics and Insurance"
@@ -32331,7 +32385,9 @@
       ],
       "minutes": 620,
       "outcome": "Write a country trade and finance brief",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in International Economy and Finance"
       ],
@@ -33034,7 +33090,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a decision report built on numbers",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Quantitative Techniques in Business"
       ],
@@ -33737,7 +33795,9 @@
       ],
       "minutes": 620,
       "outcome": "Run an HR audit and compliance review",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Human Resource Management",
         "Diploma in Strategic Human Resource Management",
@@ -34442,7 +34502,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a go-to-market plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Sales and Marketing Management",
         "Diploma in Industrial Marketing",
@@ -35147,7 +35209,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a brand and product plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Brand Management",
         "Diploma in Product and Brand Management"
@@ -35850,7 +35914,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a strategic plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Business Strategy",
         "Advanced Certification in Corporate Management & Operations",
@@ -36554,7 +36620,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver and close a project",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Project Management",
         "Diploma in Six Sigma"
@@ -37268,7 +37336,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a validated business plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Entrepreneurship",
         "Advanced Diploma in Entrepreneurship Development"
@@ -37971,7 +38041,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a business communication pack",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Business Communication",
         "Certificate in Advance Communication",
@@ -38665,7 +38737,9 @@
       ],
       "minutes": 620,
       "outcome": "Build and edit an English portfolio",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in English Language Learning",
         "Certificate of Proficiency in English"
@@ -39368,7 +39442,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a CRM improvement plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Customer Relationship Management"
       ]
@@ -40070,7 +40146,9 @@
       ],
       "minutes": 620,
       "outcome": "Write an office operations manual",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Office Administration and Management",
         "Diploma in Office Assistanship",
@@ -40786,7 +40864,9 @@
       ],
       "minutes": 620,
       "outcome": "Present a supply chain improvement plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Supply Chain Management",
         "Diploma in Supply Chain Management",
@@ -41492,7 +41572,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a courier operations plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Courier and Logistics Management",
         "Certificate in Courier Delivery Executive"
@@ -42206,7 +42288,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a warehouse control pack",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Inventory and Warehouse Management",
         "Certificate in Warehouse Worker"
@@ -42909,7 +42993,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a cold storage management file",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Cold Storage Manager",
         "Diploma in Cold Storage Supervisor"
@@ -43612,7 +43698,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver an export or import plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Export Import Management"
       ]
@@ -44325,7 +44413,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a retail operating plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Retail Management",
         "Diploma in Sales Consultant (Pre-owned Vehicles)"
@@ -45028,7 +45118,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a hospital administration plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Strategic Management for Hospital",
         "Certificate in Hospital Front Desk Coordinator"
@@ -45732,7 +45824,9 @@
       ],
       "minutes": 620,
       "outcome": "Build an annual compliance calendar",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Certificate in Industrial and Company Law"
       ],
@@ -46435,7 +46529,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver an IP strategy for a new product",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Intellectual Property Rights"
       ],
@@ -47127,7 +47223,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan a rights-based advocacy campaign",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Human Rights"
       ],
@@ -47830,7 +47928,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a public policy brief",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Certificate in Public Administration",
         "Advanced Certification in Indian Political System & Administration"
@@ -48523,7 +48623,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a social work practice file",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Social Work & Development"
       ],
@@ -49226,7 +49328,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver an ESG action plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Environmental Social and Governance"
       ],
@@ -49929,7 +50033,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a community health education plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Health Family Welfare and Population Education"
       ],
@@ -50632,7 +50738,9 @@
       ],
       "minutes": 620,
       "outcome": "Prepare a hotel business plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Hotel Business Management",
         "Advanced Certification in Hotel & Resort Business Management",
@@ -51336,7 +51444,9 @@
       ],
       "minutes": 620,
       "outcome": "Design a housekeeping operating system",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Housekeeping Management",
         "Diploma in Hospital House keeping"
@@ -52050,7 +52160,9 @@
       ],
       "minutes": 620,
       "outcome": "Set up the basics of a travel business",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Tour and Travel Management",
         "Certificate in Tour and Travel",
@@ -52768,7 +52880,9 @@
       ],
       "minutes": 620,
       "outcome": "Evaluate an event and report results",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Event Management",
         "Advanced Diploma in Event Management",
@@ -53472,7 +53586,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan a small food business safely",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Cooking and Baking"
       ],
@@ -54175,7 +54291,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a temple management plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Temple Management"
       ]
@@ -54877,7 +54995,9 @@
       ],
       "minutes": 620,
       "outcome": "Partner with parents and keep records",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Skill-Based Diploma in Montessori Education & Early Learning",
         "Skill-Based Advanced Diploma in Montessori Education & Pedagogy",
@@ -55582,7 +55702,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan a term and communicate with parents",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Practical Nursery & Early Childhood Teaching",
         "Industry-Oriented Diploma in Pre-Primary Teaching Skills",
@@ -56277,7 +56399,9 @@
       ],
       "minutes": 620,
       "outcome": "Write a daycare operations manual",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advance Certificate in Early Childhood Care and Education",
         "Certificate in Preschool Child Development & Learning",
@@ -56981,7 +57105,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a primary unit plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Industry-Oriented Diploma in Primary Education & Pedagogy",
         "Diploma in Practical Teaching Methods and Classroom Management",
@@ -57686,7 +57812,9 @@
       ],
       "minutes": 620,
       "outcome": "Write a school development plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in School Management"
       ]
@@ -58388,7 +58516,9 @@
       ],
       "minutes": 620,
       "outcome": "Compile a counselling practice file",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Career and Education Counseling",
         "Certificate in Applied Counselling Skills"
@@ -59092,7 +59222,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a library service plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Library Science"
       ]
@@ -59794,7 +59926,9 @@
       ],
       "minutes": 620,
       "outcome": "Design a coaching programme",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Skill-Based Diploma in Sports Coaching & Physical Education"
       ]
@@ -60496,7 +60630,9 @@
       ],
       "minutes": 620,
       "outcome": "Build a training plan and a small business model",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Fitness Trainer",
         "Diploma in Personal Trainer",
@@ -61202,7 +61338,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver an ethical weight management programme",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Obesity and Weight Management"
       ],
@@ -61883,7 +62021,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a beginner yoga programme",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Yoga",
         "Diploma in Yoga",
@@ -62579,7 +62719,9 @@
       ],
       "minutes": 620,
       "outcome": "Deliver a four-week teaching programme",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma In Yoga Education",
         "Diploma in Yoga Education",
@@ -63265,7 +63407,9 @@
       ],
       "minutes": 620,
       "outcome": "Create an evidence-informed yoga class",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Yoga Science",
         "Advanced Certificate in Advanced Yoga Practices"
@@ -63958,7 +64102,9 @@
       ],
       "minutes": 620,
       "outcome": "Document sessions and run a complementary programme",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Yoga Therapy",
         "Diploma in Therapeutic Yoga",
@@ -64644,7 +64790,9 @@
       ],
       "minutes": 620,
       "outcome": "Design a short programme for a workplace",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Meditation",
         "Diploma in Meditation",
@@ -65350,7 +65498,9 @@
       ],
       "minutes": 620,
       "outcome": "Design a spa treatment protocol",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Relaxation Massage Techniques",
         "Diploma in Spa & Relaxation Techniques",
@@ -66056,7 +66206,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan and price a beauty service menu",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Beauty Care",
         "Diploma in Beauty Parlour",
@@ -66763,7 +66915,9 @@
       ],
       "minutes": 620,
       "outcome": "Price services and present a professional portfolio",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Professional Makeup Artist",
         "Diploma in Bridal Fashion and Makeup Artist",
@@ -67468,7 +67622,9 @@
       ],
       "minutes": 620,
       "outcome": "Price and run salon appointments",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Hair Stylist",
         "Diploma in Barber",
@@ -68173,7 +68329,9 @@
       ],
       "minutes": 620,
       "outcome": "Price services and build a studio plan",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Nail Technician"
       ],
@@ -68887,7 +69045,9 @@
       ],
       "minutes": 620,
       "outcome": "Fit, alter, price and run orders",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Tailoring",
         "Certificate in Self Employed Tailor",
@@ -69602,7 +69762,9 @@
       ],
       "minutes": 620,
       "outcome": "Cost, brand and show a mini collection",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Advanced Fashion Designing",
         "Diploma in Fashion Designer",
@@ -70317,7 +70479,9 @@
       ],
       "minutes": 620,
       "outcome": "Finish, price and present products",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Hand Embroiderer"
       ]
@@ -71041,7 +71205,9 @@
       ],
       "minutes": 620,
       "outcome": "Budget, schedule and run a client project",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Interior Designing"
       ]
@@ -71743,7 +71909,9 @@
       ],
       "minutes": 620,
       "outcome": "Present, price and protect your art",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Drawing and Painting",
         "Certificate in Drawing & Painting Skills",
@@ -72458,7 +72626,9 @@
       ],
       "minutes": 620,
       "outcome": "Estimate cost and build a simple piece",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Carpenter & Furniture Design"
       ]
@@ -73160,7 +73330,9 @@
       ],
       "minutes": 620,
       "outcome": "Run a consultation with consent, boundaries and referral",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Astrology",
         "Diploma in Astrology",
@@ -73867,7 +74039,9 @@
       ],
       "minutes": 620,
       "outcome": "Prepare a consulting report and fee",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Diploma in Vastu Shastra",
         "Diploma in Vastu Shastra",
@@ -74562,7 +74736,9 @@
       ],
       "minutes": 620,
       "outcome": "Set a session policy and price",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Tarot Reading"
       ],
@@ -75265,7 +75441,9 @@
       ],
       "minutes": 620,
       "outcome": "Prepare a report and price a consultation",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Numerology"
       ],
@@ -75957,7 +76135,9 @@
       ],
       "minutes": 620,
       "outcome": "Set up a practice, policy and fee",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Palmistry"
       ],
@@ -76671,7 +76851,9 @@
       ],
       "minutes": 620,
       "outcome": "Treat crystal healing claims honestly",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Gems & Crystals"
       ],
@@ -77363,7 +77545,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan a small research project",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Vedic Sciences",
         "Diploma in Indian Culture & Philosophy"
@@ -78067,7 +78251,9 @@
       ],
       "minutes": 620,
       "outcome": "Compare ritual materials and environmental impact",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Paurohitya"
       ],
@@ -78770,7 +78956,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan a drill, record results and report",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Fireman Technician",
         "Certificate in Fire Technician",
@@ -79487,7 +79675,9 @@
       ],
       "minutes": 620,
       "outcome": "Investigate an incident and drive improvement",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Fire & Safety Management",
         "Certificate in Fire and Safety Management",
@@ -80211,7 +80401,9 @@
       ],
       "minutes": 620,
       "outcome": "Investigate an accident and calculate incident rates",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Industrial Safety",
         "Certificate in Industrial Safety & Hazard Management",
@@ -80930,7 +81122,9 @@
       ],
       "minutes": 620,
       "outcome": "Audit a system and report improvements",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Health Safety & Environment",
         "Diploma in Health Safety & Environment",
@@ -81649,7 +81843,9 @@
       ],
       "minutes": 620,
       "outcome": "Prepare an environmental compliance report",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Environmental Safety",
         "Diploma in Environment Safety Management",
@@ -82365,7 +82561,9 @@
       ],
       "minutes": 620,
       "outcome": "Write a site safety plan and compliance record",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Construction Safety Management",
         "Diploma in Construction Safety and Health Management"
@@ -83091,7 +83289,9 @@
       ],
       "minutes": 620,
       "outcome": "Track cost and productivity",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Construction Supervisor",
         "Diploma in Civil Construction Supervisor"
@@ -83806,7 +84006,9 @@
       ],
       "minutes": 620,
       "outcome": "Maintain, test and document equipment",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Electrical Safety"
       ],
@@ -84531,7 +84733,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan recovery, rehabilitation and lessons learned",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Disaster Management",
         "Certificate in Disaster Management"
@@ -85246,7 +85450,9 @@
       ],
       "minutes": 620,
       "outcome": "Audit a food business and close corrective actions",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Food Quality Control & Inspection"
       ],
@@ -85949,7 +86155,9 @@
       ],
       "minutes": 620,
       "outcome": "Write incident reports and brief a shift",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Diploma in Security Officer Skills and Crisis Management",
         "Diploma in Security Supervisor",
@@ -86665,7 +86873,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan a small solar system and an energy saving",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Electrician Technician Program"
       ],
@@ -87379,7 +87589,9 @@
       ],
       "minutes": 620,
       "outcome": "Plan preventive maintenance and an efficiency check",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in HVAC Technician"
       ],
@@ -88104,7 +88316,9 @@
       ],
       "minutes": 620,
       "outcome": "Commission, monitor and estimate payback",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Solar Panel Installation Technician"
       ],
@@ -88807,7 +89021,9 @@
       ],
       "minutes": 620,
       "outcome": "Manage pests and disease with integrated methods",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Gardening Skills",
         "Certificate in Plant Nursery Management"
@@ -89521,7 +89737,9 @@
       ],
       "minutes": 620,
       "outcome": "Cost a system and understand subsidy rules",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Certificate in Drip & Sprinkler Irrigation Technology"
       ]
@@ -90234,7 +90452,9 @@
       ],
       "minutes": 620,
       "outcome": "Build a farm plan, budget and marketing strategy",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Certificate in Organic Agriculture"
       ]
@@ -90947,7 +91167,9 @@
       ],
       "minutes": 620,
       "outcome": "Act as an informed consumer",
-      "prerequisites": [],
+      "prerequisites": [
+        "start"
+      ],
       "aliases": [
         "Advanced Certificate in Home Science"
       ]
