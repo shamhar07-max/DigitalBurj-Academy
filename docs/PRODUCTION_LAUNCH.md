@@ -44,7 +44,7 @@ Each person signs in with their own verified identity and completes registration
 | Account | Learning access | Operational access |
 | --- | --- | --- |
 | Administrator | All courses and programmes | Merchant, offers, appointments, learner administration and teacher package assignment |
-| Demo learner | All 18 guided courses, all 48 professional programmes and practice tools until expiry | Their own records; no other learner's data or administrator controls |
+| Demo learner | All 129 guided courses, all 48 professional programmes and practice tools until expiry | Their own records; no other learner's data or administrator controls |
 | Each teacher | Assigned courses and related professional practice until expiry | Assigned teaching packages, class availability, meeting links, attendance and cancellation |
 | Registered unpaid learner | Free foundations, relevant free professional practice and built-in tools | Their own drafts, plan, activity and support requests |
 | Purchaser | Free learning plus the active purchased course scope | Their owned receipts and, if purchased, their teacher package |

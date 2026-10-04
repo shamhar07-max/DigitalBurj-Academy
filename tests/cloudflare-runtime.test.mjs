@@ -113,7 +113,7 @@ try {
     slotId: 'demo', name: 'Demo fixture', email: 'demo@example.test', expires
   }}), 200);
   const demo = await login('demo'); await onboard(demo, 'Demo fixture');
-  check((await status(await call('/api/academy/bootstrap', {cookie: demo}), 200)).entitlements.length === 18, 'Demo receives the full guided course scope');
+  check((await status(await call('/api/academy/bootstrap', {cookie: demo}), 200)).entitlements.length === 129, 'Demo receives the full guided course scope');
   const professional = await status(await call('/curriculum.js', {cookie: demo}), 200);
   check(JSON.parse(professional.slice('window.ACADEMY_CONTENT='.length, -1)).programmes.length === 48, 'Professional workspace retains all programmes');
   await status(await call('/api/academy/operations/merchant', {method: 'PUT', cookie: owner, body: {

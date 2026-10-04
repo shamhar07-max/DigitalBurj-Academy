@@ -5,7 +5,7 @@ Validated locally on 1 October 2026. The Academy is published as a private Sites
 | Check group | Result |
 |---|---|
 | Brand provenance | Seven assets/font files match the reference repository bytes |
-| New curriculum | 18 courses, 180 unique recipes, five levels and six stages each |
+| New curriculum | 129 courses, 1,290 unique recipes, five levels and six stages each |
 | Standard workflow | 126 assertions passed for catalogue protection, immutable purchase terms, provider matching, failed/partial payment denial, qualified teacher assignment, booking quotas/overlap/ownership and refund cancellation |
 | Standard browser journey | 48 assertions passed for registered catalogue, free/paid dashboard, dictated-text editing, eleven tools, 39-entry directory, secure checkout fixture, booking/cancellation, QR pixel decoding and print visibility |
 | New server lifecycle | 120 assertions passed for access, expiry, ownership, CSRF, revision conflicts, review separation, certificate lifecycle, payments/refunds, entry-point identity spoofing and private practice mode |
@@ -27,7 +27,7 @@ Validated locally on 1 October 2026. The Academy is published as a private Sites
 
 ## Browser flow covered
 
-Empty-step blocking; ordered advancement through all six recipe stages; acceptance and consent checks; downloadable JSON evidence; completion retained across reload; 18 searchable courses; all 48 original programmes; HTML preview and iframe isolation; CSV totals and invalid-data errors; SQL result rows; prompt preparation; automation simulation; API ownership denial; removal of manufacturing entry points; pathway selection; receipt animation and sample labelling; closed purchase state; sample certificate marking; learning-session creation; glossary and global search; staff access denial; legacy programme deep links; responsive routes; and mobile navigation. Mocked connected responses verify public certificate lookup without authenticated bootstrap, and receipt transitions without representing a real payment. Direct file opening was checked to keep the Academy locked without a verified registered session.
+Empty-step blocking; ordered advancement through all six recipe stages; acceptance and consent checks; downloadable JSON evidence; completion retained across reload; 129 searchable courses; all 48 original programmes; HTML preview and iframe isolation; CSV totals and invalid-data errors; SQL result rows; prompt preparation; automation simulation; API ownership denial; removal of manufacturing entry points; pathway selection; receipt animation and sample labelling; closed purchase state; sample certificate marking; learning-session creation; glossary and global search; staff access denial; legacy programme deep links; responsive routes; and mobile navigation. Mocked connected responses verify public certificate lookup without authenticated bootstrap, and receipt transitions without representing a real payment. Direct file opening was checked to keep the Academy locked without a verified registered session.
 
 Screenshots and the machine-readable summary are in `docs/screenshots/` and `docs/browser-validation.json` and `docs/integration-ui-validation.json`. Screenshot data is local practice data used to exercise the product; it is not pre-seeded into a new user's dashboard.
 

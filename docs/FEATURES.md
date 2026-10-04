@@ -8,9 +8,9 @@ This inventory describes the features included in the deployable source. Product
 | Sessions | Secure HttpOnly cookie, encrypted tokens, expiry, password change and logout | Stable session key and persistent database |
 | Access | Anonymous content blocked; free foundations; exact purchased/assigned scope | Approved purchases or owner appointment |
 | Owner | Administration, offers, merchant connection, appointments and suspension | Verified matching owner email |
-| Demo | All 18 guided courses and 48 professional programmes until expiry | Real demo email appointed by owner |
+| Demo | All 129 guided courses and 48 professional programmes until expiry | Real demo email appointed by owner |
 | Teachers | Six appointments, scoped courses and teaching operations | Real emails, checked qualifications and current access |
-| Guided learning | 180 projects, explanations, task checks, typed/dictated understanding and evidence | Learner account and course access |
+| Guided learning | 1,290 projects, explanations, task checks, typed/dictated understanding and evidence | Learner account and course access |
 | Professional Practice | Original 48 programmes, 192 missions, 576 units and all 14 sections | Relevant free/purchased/assigned programme access |
 | Plan | Guided/Professional route, course/programme, days, hours and timezone, cloud save | Registered account |
 | Tools | Writing, web/data/prompt/automation/API practice, design desk, project board, budget, JSON and contrast tools | Registered account; training simulations are labelled |

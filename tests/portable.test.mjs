@@ -108,7 +108,7 @@ try {
   await status(await call('/api/academy/operations/account',{method:'PUT',cookie:ownerCookie,body:{slotId:'demo',name:'Demo fixture',email:'demo@example.test',expires}}),200);
   await status(await call('/api/academy/operations/account',{method:'PUT',cookie:ownerCookie,body:{slotId:'teacher-1',name:'Teacher fixture',email:'teacher@example.test',expires,domains:['web'],qualification:'The owner has checked this teacher’s actual professional experience, subject qualifications, teaching demonstration and references. Controlled fixture only.',qualificationChecked:true}}),200);
   const demoCookie=await login('demo@example.test');await onboard(demoCookie,'Demo fixture');
-  check((await status(await call('/api/academy/bootstrap',{cookie:demoCookie}),200)).entitlements.length===18,'Demo has complete guided scope');
+  check((await status(await call('/api/academy/bootstrap',{cookie:demoCookie}),200)).entitlements.length===129,'Demo has complete guided scope');
   const demoContent=await status(await call('/curriculum.js',{cookie:demoCookie}),200);check(JSON.parse(demoContent.slice('window.ACADEMY_CONTENT='.length,-1)).programmes.length===48,'Demo has all professional programmes');
   const teacherCookie=await login('teacher@example.test');await onboard(teacherCookie,'Teacher fixture');
   check((await status(await call('/api/academy/bootstrap',{cookie:teacherCookie}),200)).user.role==='Mentor','Verified teacher appointment activates');

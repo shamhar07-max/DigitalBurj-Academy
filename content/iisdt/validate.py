@@ -9,7 +9,7 @@ def load():
     import importlib,pkgutil,iisdt
     out=[]
     for m in sorted(pkgutil.iter_modules(iisdt.__path__),key=lambda m:m.name):
-        if m.name in('validate',):continue
+        if m.name in('validate','adapter'):continue
         out+=importlib.import_module('iisdt.'+m.name).COURSES
     return out
 def check(courses=None,expect_all=False):

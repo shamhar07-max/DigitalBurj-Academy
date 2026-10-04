@@ -4,7 +4,7 @@ for(const id of ['owner','learner','other','reviewer','verifier'])seedProfile(sq
 const identity=id=>id?{id,email:id+'@example.test',verified:true}:null;
 async function call(path,method='GET',body,user='learner',origin='https://academy.test'){const r=await academy(new Request('https://academy.test/api/academy/'+path,{method,headers:{origin,'content-type':'application/json'},...(body?{body:JSON.stringify(body)}:{})}),env,identity(user));return{status:r.status,body:await r.json()}}
 const expect=(r,status)=>{assert.equal(r.status,status,JSON.stringify(r.body));checks++;return r.body};
-assert.equal(atlas.tracks.length,18);assert.equal(atlas.tracks.flatMap(t=>t.missions).length,180);assert.equal(new Set(atlas.tracks.flatMap(t=>t.missions.map(m=>m.id))).size,180);checks+=3;
+assert.equal(atlas.tracks.length,129);assert.equal(atlas.tracks.flatMap(t=>t.missions).length,1290);assert.equal(new Set(atlas.tracks.flatMap(t=>t.missions.map(m=>m.id))).size,1290);checks+=3;
 expect(await call('bootstrap','GET',null,null),401);expect(await call('catalogue','GET',null,null),401);expect(await call('course/start'),200);expect(await call('course/web'),403);expect(await call('course/web','GET',null,'owner'),200);
 assert(!expect(await call('catalogue'),200).tracks.some(t=>'missions'in t));checks++;
 expect(await call('grant','POST',{userId:'learner',courseId:'web',reason:'Scholarship granted for this test learner.'}),403);

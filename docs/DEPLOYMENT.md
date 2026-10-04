@@ -127,7 +127,7 @@ Set ACADEMY_OWNER_EMAIL to your real owner sign-in address **before anyone regis
 
 Open Launch & team. It prepares one administrator entry, one demo appointment and six teacher appointments. Enter the real names, exact sign-in emails, expiry dates, course assignments and checked teacher qualifications. Each person registers with their own email and claims only that appointment.
 
-The demo receives all 18 guided courses, 48 professional programmes and practice tools. It has no administrator access or other learners' records. Teachers receive only assigned course and teaching operations access. Reviewers and certificate verifiers are separately appointed; a teacher is not automatically an assessor.
+The demo receives all 129 guided courses, 48 professional programmes and practice tools. It has no administrator access or other learners' records. Teachers receive only assigned course and teaching operations access. Reviewers and certificate verifiers are separately appointed; a teacher is not automatically an assessor.
 
 Shared default passwords and fabricated identities are not installed. See [PRODUCTION_LAUNCH.md](PRODUCTION_LAUNCH.md) for teaching operations.
 
